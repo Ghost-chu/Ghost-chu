@@ -36,7 +36,7 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
-          plugin_activity_load: 300
+          plugin_activity_load: 78
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_followup: yes
@@ -60,10 +60,10 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_reactions: yes
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
+          plugin_reactions_limit: 78
+          plugin_reactions_limit_discussions: 78
+          plugin_reactions_limit_discussions_comments: 78
+          plugin_reactions_limit_issues: 78
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_traffic: yes
