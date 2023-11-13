@@ -60,14 +60,12 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_reactions: yes
-          plugin_reactions_display: relative
           plugin_reactions_limit: 200
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: graph
           plugin_stargazers_days: 14
           plugin_stars: yes
           plugin_stars_limit: 4
