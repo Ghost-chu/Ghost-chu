@@ -29,13 +29,14 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          config_display: columns
           config_padding: 0, 8 + 50%
           config_timezone: Asia/Shanghai
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
-          plugin_activity_load: 300
+          plugin_activity_load: 100
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_followup: yes
@@ -51,7 +52,7 @@ jobs:
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
+          plugin_languages_recent_load: 100
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_notable: yes
@@ -61,5 +62,5 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          repositories_batch: 78
+          repositories_batch: 50
           repositories_forks: yes
