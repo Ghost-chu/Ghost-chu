@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.50bb of code in 49830 edited files across 17349 commits</small>
+                <small>estimation from 2.50bb of code in 49853 edited files across 17350 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="3.724803167578673" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="3.724803167578673" y="0" width="0.014798701766735345" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="3.739601869345408" y="0" width="0.005057743910952496" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="3.7446596132563608" y="0" width="0.0020680486396959076" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="3.7467276618960565" y="0" width="0.0019162172205789928" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="3.7486438791166354" y="0" width="0.0010177566677997127" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="3.7496616357844355" y="0" width="0.0009040700879683285" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="3.7505657058724036" y="0" width="456.24943429412764" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="3.725724582756045" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="3.725724582756045" y="0" width="0.0147986718818139" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="3.7405232546378584" y="0" width="0.00505773369719984" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="3.745580988335058" y="0" width="0.002068044463419359" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="3.7476490327984773" y="0" width="0.001916213350915153" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="3.7495652461493925" y="0" width="0.0010177546125128003" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="3.750583000761906" y="0" width="0.0009040682622633454" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="3.7514870690241686" y="0" width="456.24851293097583" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -499,6 +499,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#17e313f</div>
+                                        <div class="message">BUG修修</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Dec 2023, 19:55:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">RIA-AED/EpicDragonFight2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#2b1c5b5</div>
                                         <div class="message">删除不必要的难度增强模块引用</div>
                                     </div>
@@ -570,33 +591,12 @@
                                 <div class="timestamp">3 Dec 2023, 14:01:25</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">RIA-AED/EpicDragonFight2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c7924a5</div>
-                                        <div class="message">为技能配置阶段过滤器</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">3 Dec 2023, 02:03:59</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2023, 19:15:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2023, 20:34:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
