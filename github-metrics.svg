@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 70.3mb of code in 50596 edited files across 17813 commits</small>
+                <small>estimation from 70.3mb of code in 50597 edited files across 17814 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.655057151053" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="342.655057151053" y="0" width="21.561764763441662" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="364.21682191449463" y="0" width="1.2837407718296818" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="365.5005626863243" y="0" width="0.44013830288585887" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="365.9407009892102" y="0" width="0.21795240006918318" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="366.1586533892794" y="0" width="0.16622580902798165" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="366.3248791983074" y="0" width="0.1654796744441324" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="366.49035887275153" y="0" width="93.50964112724856" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.65651776412903" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="342.65651776412903" y="0" width="21.561496380375523" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="364.2180141445046" y="0" width="1.2837247928832343" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="365.5017389373878" y="0" width="0.44013282440723944" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="365.941871761795" y="0" width="0.2179496871774489" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="366.1598214489725" y="0" width="0.16622373998619455" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="366.3260451889587" y="0" width="0.1654776146896133" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="366.4915228036483" y="0" width="93.50847719635169" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -497,6 +497,27 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">Ghost-chu/QuickShop-Hikari</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">hikari</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#77d517e</div>
+                                        <div class="message">try fix double-chest issue</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">19 Feb 2024, 03:27:01</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">RIA-AED/BilibiliDynamicProxy</span>
                                     </div>
                                 </div>
@@ -573,33 +594,12 @@
                                 <div class="timestamp">18 Feb 2024, 13:09:16</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">RIA-AED/BilibiliDynamicProxy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9164302</div>
-                                        <div class="message">Create main.py</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">18 Feb 2024, 13:09:04</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Feb 2024, 03:14:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Feb 2024, 04:19:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
