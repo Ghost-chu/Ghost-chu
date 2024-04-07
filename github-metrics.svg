@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="887" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="947" class="columns">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1236 issue comments
+                            1237 issue comments
                         </div>
                     </section>
                     <section>
@@ -497,6 +497,30 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#22 增加开关豁免私有种子</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Gaojianli in <span class="repo">Ghost-chu/PeerBanHelper</span></div>
+                                    <div class="comment">
+                                        对于 qBittorrent 来说，检查种子类型需要对每个种子多增加一次请求。如果有 100 个活跃种子，那么就会额外发送 100 次请求，这会显著增加下载器的对 WebAPI 响应引起的负载。  
+暂且不论负载性能问题，单从问题表明来听就非常冲突。如果 PT 站对吸血行为管理恰当，那么吸血客户端也不会触发 PBH 的反吸血规则。
+                                        <br />
+                                        就算是玩 PT 的也是用的正常的 BT 客户端，其行为也是正常行为，不会出现反常现象。如果一个 BT 客户端出现反常现象，那只能说它完全不遵守 Bittorrent BEP 规范——而这类客户端也通常是各个 PT 站所封禁的对象。PBH 所做的工作与 PT 没有冲突的情况。恰恰相反，PBH 更有利于 PT 站的用户抓到那些在 PT 站里使用作弊工具的吸血者。
+对于此提议，我决定搁置，直至有更有说服力的理由出现。
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Apr 2024, 17:21:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#21 UTF-8 兼容问题</span>
                                     </div>
                                 </div>
@@ -569,29 +593,12 @@ GUI和WebUI已经提上日程了，可以关注一下。</div>
                                 <div class="timestamp">7 Apr 2024, 00:37:15</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">l10n_hikari_community</span>
-                                        in
-                                        <span class="repo">Ghost-chu/QuickShop-Hikari</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Apr 2024, 00:27:55</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Apr 2024, 17:18:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Apr 2024, 18:18:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
