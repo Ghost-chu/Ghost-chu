@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1094" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="887" class="columns">
     <defs>
         <style/>
     </defs>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 101 repositories
+                            Contributed to 100 repositories
                         </div>
                     </section>
                 </div>
@@ -222,14 +222,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="6.772388059701492" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="6.772388059701492" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="6.772388059701492" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="6.772388059701492" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="6.772388059701492" y="0" width="213.22761194029852" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="6.971109040074558" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="6.971109040074558" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="6.971109040074558" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="6.971109040074558" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="6.971109040074558" y="0" width="213.02889095992546" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="followup legend field fill-width">
                             <div class="field">
@@ -237,7 +237,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">33 <small>open</small></span>
+                                <span class="no-wrap">34 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -493,6 +493,45 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#35 [开发预览] IP 段连锁封禁 &amp; 封禁历史 &amp; 持久化数据存储 &amp; 简易分析 (2024/04/11)</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">Ghost-chu/PeerBanHelper</span></div>
+                                </div>
+                                <div class="timestamp">11 Apr 2024, 00:15:03</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Ghost-chu/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">v3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#38b3f01</div>
+                                        <div class="message">封禁历史页面和前 50 个最多封禁次数 IP</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Apr 2024, 23:58:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
                                     </svg>
                                     <div class="content">
@@ -545,129 +584,12 @@
                                 <div class="timestamp">10 Apr 2024, 22:12:11</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 19 commits in
-                                        <span class="repo">Ghost-chu/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v3</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8761a3f</div>
-                                        <div class="message">安全退出并保存 SQLite</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93d1a9c</div>
-                                        <div class="message">合并更改</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ca445d</div>
-                                        <div class="message">Merge branch 'master' into v3
-
-# Conflicts:
-#	src/main/java/com/ghostchu/peerbanhelper/PeerBanHelperServer.java</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb345cf</div>
-                                        <div class="message">Merge pull request #34 from Gaojianli/master
-
-feat: Dynamic Module Support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60ceaae</div>
-                                        <div class="message">Merge branch 'master' into v3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e96f44</div>
-                                        <div class="message">基本 SQLite 数据记录</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2594c06</div>
-                                        <div class="message">引入SQLite数据库</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#110db6a</div>
-                                        <div class="message">unload module</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#100321d</div>
-                                        <div class="message">fix code style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1dac53</div>
-                                        <div class="message">add custom plugin</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1eba89a</div>
-                                        <div class="message">load jar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fddd301</div>
-                                        <div class="message">BanMetadata 增加封禁模块上下文信息</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8ed074</div>
-                                        <div class="message">Merge pull request #32 from BUnipendix/master
-
-修正profile.yml里的标点错误</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#413eba7</div>
-                                        <div class="message">make feature module become framework in order to implement dynamic modules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20d3aaa</div>
-                                        <div class="message">remove sun signal handler</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35be295</div>
-                                        <div class="message">add shutdown server</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45df01f</div>
-                                        <div class="message">add shutdown server</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a00c83e</div>
-                                        <div class="message">Update profile.yml for wrong format</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#924cae1</div>
-                                        <div class="message">add sigterm handler</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Apr 2024, 22:00:48</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">l10n_hikari_community</span>
-                                        in
-                                        <span class="repo">Ghost-chu/QuickShop-Hikari</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Apr 2024, 21:14:42</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2024, 23:20:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Apr 2024, 00:26:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
