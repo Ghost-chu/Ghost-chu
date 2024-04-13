@@ -496,6 +496,64 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">Ghost-chu/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">v3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1e34887</div>
+                                        <div class="message">使用 exec 传递 signal，帮助 PBH 捕获系统发出的退出 SIGTERM</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3acfa87</div>
+                                        <div class="message">BTN 网络相关杂项更改</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9de4f0f</div>
+                                        <div class="message">BTN 网络相关杂项更改</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d22557</div>
+                                        <div class="message">适配接口</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9b1087</div>
+                                        <div class="message">不为不必要的字段添加索引</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">13 Apr 2024, 18:53:18</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Ghost-chu/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">v3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7d521c2</div>
+                                        <div class="message">实现 BTN 的 Flags 标记</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">13 Apr 2024, 18:33:01</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Ghost-chu/QuickShop-Hikari</span>
                                     </div>
@@ -552,78 +610,12 @@
                                 <div class="timestamp">13 Apr 2024, 16:49:32</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Ghost-chu/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4f5b8b5</div>
-                                        <div class="message">减少日志数量</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">13 Apr 2024, 16:48:23</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">Ghost-chu/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v3</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#86d6690</div>
-                                        <div class="message">使用 ScheduledExecutorService 替换 Timer 以提高可靠性</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8187a1f</div>
-                                        <div class="message">重构 BTN 网络相关内容</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05de0ff</div>
-                                        <div class="message">添加 NullUtil 以改善空判断相关的代码可读性</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4fe8d4d</div>
-                                        <div class="message">添加通用 HttpUtil 工具类</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fbc3d9c</div>
-                                        <div class="message">更好的处理 IPv4 in IPv6 的情况，并改进检查性能</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d2f1d7</div>
-                                        <div class="message">处理 IPv4 in IPv6 的情况</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0075f33</div>
-                                        <div class="message">提交丢失的 BTN 网络相关代码</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">13 Apr 2024, 16:46:08</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2024, 18:16:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2024, 19:13:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
