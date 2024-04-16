@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1018" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="887" class="columns">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1280 issue comments
+                            1281 issue comments
                         </div>
                     </section>
                     <section>
@@ -222,11 +222,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="7.900552486187845" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="7.900552486187845" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="7.900552486187845" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="7.900552486187845" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="7.900552486187845" y="0" width="212.09944751381215" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="7.697974217311234" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="7.697974217311234" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="7.697974217311234" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="7.697974217311234" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="7.697974217311234" y="0" width="212.30202578268876" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -237,14 +237,14 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">39 <small>open</small></span>
+                                <span class="no-wrap">38 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">1047 <small>closed</small></span>
+                                <span class="no-wrap">1048 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 70.6mb of code in 51427 edited files across 18074 commits</small>
+                <small>estimation from 70.6mb of code in 51432 edited files across 18076 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.5707186259259" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="340.5707186259259" y="0" width="21.597525344840566" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="362.1682439707664" y="0" width="1.384475776528314" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="363.55271974729476" y="0" width="0.46347576176700134" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="364.0161955090618" y="0" width="0.22189934334599126" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="364.23809485240776" y="0" width="0.16528743063015833" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="364.4033822830379" y="0" width="0.08778878658469474" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="364.4911710696226" y="0" width="95.5088289303774" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.575330120436" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="340.575330120436" y="0" width="21.597074537461147" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="362.17240465789706" y="0" width="1.3844168961526573" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="363.55682155404975" y="0" width="0.46345605060453593" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="364.02027760465427" y="0" width="0.22188990618795953" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="364.24216751084225" y="0" width="0.16528040112038156" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="364.40744791196266" y="0" width="0.08778505301505043" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="364.4952329649777" y="0" width="95.5047670350223" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -493,6 +493,77 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#49 [Feature] 请求实现后台运行。</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Radium-bit in <span class="repo">Ghost-chu/PeerBanHelper</span></div>
+                                </div>
+                                <div class="timestamp">16 Apr 2024, 23:01:35</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#49 [Feature] 请求实现后台运行。</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Radium-bit in <span class="repo">Ghost-chu/PeerBanHelper</span></div>
+                                    <div class="comment">经测试，技术限制，无法实现。</div>
+                                </div>
+                                <div class="timestamp">16 Apr 2024, 23:01:27</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#49 [Feature] 请求实现后台运行。</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Radium-bit in <span class="repo">Ghost-chu/PeerBanHelper</span></div>
+                                </div>
+                                <div class="timestamp">16 Apr 2024, 23:01:26</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">broken-gui</span>
+                                        in
+                                        <span class="repo">Ghost-chu/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Apr 2024, 23:00:57</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -510,95 +581,12 @@
                                 <div class="timestamp">16 Apr 2024, 21:30:51</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#64 Crop Native image Size</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Gaojianli in <span class="repo">Ghost-chu/PeerBanHelper</span></div>
-                                    <div class="comment">考虑是否可与被revert的 https://github.com/Ghost-chu/PeerBanHelper/pull/48 合并</div>
-                                </div>
-                                <div class="timestamp">16 Apr 2024, 14:38:30</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#63 Native image can't run on alpine</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Gaojianli in <span class="repo">Ghost-chu/PeerBanHelper</span></div>
-                                    <div class="comment">Musl 和 ARM/RISCV 等架构目前未正式支持。
-https://github.com/xerial/sqlite-jdbc/blob/master/src/main/resources/org/sqlite/native/Linux-Musl/x86_64/libsqlitejdbc.so</div>
-                                </div>
-                                <div class="timestamp">16 Apr 2024, 13:57:43</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Ghost-chu/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#24be0a9</div>
-                                        <div class="message">按时间倒序排序banlist</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edbe7e2</div>
-                                        <div class="message">top50分析仅分析仅14天数据</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">16 Apr 2024, 13:34:00</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Ghost-chu/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#87f65b4</div>
-                                        <div class="message">对于本地快照构建，文件名添加额外信息</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Apr 2024, 23:45:22</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2024, 22:19:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Apr 2024, 23:19:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
