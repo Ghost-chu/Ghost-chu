@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="916" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="845" class="columns">
     <defs>
         <style/>
     </defs>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 70.8mb of code in 51957 edited files across 18202 commits</small>
+                <small>estimation from 70.8mb of code in 51959 edited files across 18203 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="341.0258415312455" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="341.0258415312455" y="0" width="21.471515993649415" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="362.4973575248949" y="0" width="1.3763436677428975" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="363.8737011926378" y="0" width="0.4607534062169865" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="364.3344545988548" y="0" width="0.2205959549948949" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="364.55505055384964" y="0" width="0.16431656830845204" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="364.71936712215813" y="0" width="0.08727313439723892" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="364.80664025655534" y="0" width="95.19335974344463" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="341.02594520687467" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="341.02594520687467" y="0" width="21.4714972830911" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="362.4974424899657" y="0" width="1.3763424683791232" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="363.87378495834486" y="0" width="0.46075300471047526" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="364.33453796305537" y="0" width="0.22059576276471043" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="364.55513372582004" y="0" width="0.16431642512085715" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="364.71945015094093" y="0" width="0.08727305834629444" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="364.8067232092872" y="0" width="95.19327679071277" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -502,12 +502,12 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v3.3.2</span>
+                                        <span class="code">v3.3.4</span>
                                         in
                                         <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">27 Apr 2024, 20:23:49</div>
+                                <div class="timestamp">27 Apr 2024, 20:54:10</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -518,12 +518,12 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">v3.3.2</span>
+                                        <span class="bold">v3.3.4</span>
                                         of
                                         <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">27 Apr 2024, 20:23:49</div>
+                                <div class="timestamp">27 Apr 2024, 20:54:10</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -540,50 +540,44 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2e31a6a</div>
-                                        <div class="message">3.3.2</div>
+                                        <div class="sha">#dc8c840</div>
+                                        <div class="message">修复 3.3.3 的配置文件错误</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">27 Apr 2024, 20:22:08</div>
+                                <div class="timestamp">27 Apr 2024, 20:53:01</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Released
+                                        <span class="bold">v3.3.3</span>
+                                        of
                                         <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c1dea16</div>
-                                        <div class="message">修复content为空的报错</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">27 Apr 2024, 20:21:07</div>
+                                <div class="timestamp">27 Apr 2024, 20:45:47</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#83 建议保持 Releases 文件名</span>
+                                        Created new
+                      tag
+                                        <span class="code">v3.3.3</span>
+                                        in
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>opened by cherinyy in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                </div>
-                                <div class="timestamp">27 Apr 2024, 19:45:23</div>
+                                <div class="timestamp">27 Apr 2024, 20:45:47</div>
                             </section>
                         </div>
                     </section>
@@ -591,7 +585,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2024, 20:32:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Apr 2024, 21:20:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
