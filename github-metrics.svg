@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1063" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1103" class="columns">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -267,13 +267,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="6.279632317368167" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="6.279632317368167" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="6.279632317368167" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="6.279632317368167" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="6.279632317368167" y="0" width="35.1233671988389" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="41.40299951620707" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="41.40299951620707" y="0" width="178.59700048379293" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="6.276595744680851" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="6.276595744680851" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="6.276595744680851" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="6.276595744680851" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="6.276595744680851" y="0" width="35.1063829787234" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="41.38297872340425" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="41.38297872340425" y="0" width="178.61702127659575" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -287,7 +287,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">1678 <small>merged</small></span>
+                                <span class="no-wrap">1679 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -316,7 +316,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 70.9mb of code in 52033 edited files across 18257 commits</small>
+                <small>estimation from 70.9mb of code in 52034 edited files across 18258 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -501,14 +501,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#1537 New Crowdin updates</span>
+                                        <span class="issue">#1538 New Crowdin updates</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Ghost-chu/QuickShop-Hikari</span></div>
-                                    <div>1 file changed <span class="code">++12 --12</span></div>
+                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
-                                <div class="timestamp">3 May 2024, 11:48:00</div>
+                                <div class="timestamp">3 May 2024, 12:56:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -525,29 +525,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">l10n_hikari_community</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f89fe3f</div>
+                                        <div class="sha">#89f8fdb</div>
                                         <div class="message">New translations messages.yml (Chinese Traditional)</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 May 2024, 11:47:59</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#98 伪造进度的没有被屏蔽</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by qwqcwcawa in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">请提供PBH版本号信息，profile.yml文件，打包上传</div>
-                                </div>
-                                <div class="timestamp">2 May 2024, 21:40:50</div>
+                                <div class="timestamp">3 May 2024, 12:56:07</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -557,89 +539,132 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 10000 commits in
                                         <span class="repo">Ghost-chu/QuickShop-Hikari</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">hikari</span></div>
+                                    <div>on branch <span class="code">l10n_hikari_community</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2212c3a</div>
-                                        <div class="message">Fix QUser hashCode method &amp; Benefit command</div>
+                                        <div class="sha">#d9c9d8a</div>
+                                        <div class="message">bump version number</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d370fd</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/hikari' into hikari</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1fdfd8a</div>
+                                        <div class="message">fix some possibly NPE</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2930330</div>
+                                        <div class="message">clean</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d516206</div>
+                                        <div class="message">fix possibly NPE when sender is null</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2630e65</div>
+                                        <div class="message">clean</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f987249</div>
+                                        <div class="message">Fix taxAccount cannot be null issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74cda81</div>
+                                        <div class="message">Automatically merge Crowdin translations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38448b8</div>
+                                        <div class="message">Automatically merge Crowdin translations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2b263f</div>
+                                        <div class="message">Merge pull request #1027 from Ghost-chu/hikari
+
+5.0.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ebb05e</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/hikari' into hikari</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b0c21b</div>
+                                        <div class="message">Save all shops on disabling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38836bc</div>
+                                        <div class="message">Merge pull request #1043 from Ghost-chu/l10n_hikari_community
+
+New Crowdin updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca4f550</div>
+                                        <div class="message">New translations messages.yml (Vietnamese)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9345686</div>
+                                        <div class="message">New translations messages.yml (Turkish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f10a553</div>
+                                        <div class="message">New translations messages.yml (Russian)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0b40f8</div>
+                                        <div class="message">New translations messages.yml (Portuguese)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7fb480a</div>
+                                        <div class="message">New translations messages.yml (Polish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0aa0c4d</div>
+                                        <div class="message">New translations messages.yml (Dutch)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e84bd33</div>
+                                        <div class="message">New translations messages.yml (Korean)</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Apr 2024, 11:38:07</div>
+                                <div class="timestamp">3 May 2024, 12:56:01</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                        Created new
+                      branch
+                                        <span class="code">l10n_hikari_community</span>
+                                        in
+                                        <span class="repo">Ghost-chu/QuickShop-Hikari</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2d2ca6b</div>
-                                        <div class="message">Merge pull request #96 from PBH-BTN/docker
-
-Use 2-stage Dockerfile to ensure image reproducible</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#176a558</div>
-                                        <div class="message">Update Dockerfile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b853f60</div>
-                                        <div class="message">entrypoint not cmd</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ddf792</div>
-                                        <div class="message">add java to path</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#566e0e1</div>
-                                        <div class="message">fix jre</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3855406</div>
-                                        <div class="message">workdir</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59c8242</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f1839c</div>
-                                        <div class="message">no need for git</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d4dd72</div>
-                                        <div class="message">fix setup-webui.sh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bba580</div>
-                                        <div class="message">ues maven image directly</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5820a9a</div>
-                                        <div class="message">copy jre</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#764894c</div>
-                                        <div class="message">add command</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0d77d2</div>
-                                        <div class="message">use two-stage build to ensure reproducible</div>
+                                <div class="timestamp">3 May 2024, 12:56:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">l10n_hikari_community</span>
+                                        in
+                                        <span class="repo">Ghost-chu/QuickShop-Hikari</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Apr 2024, 22:59:05</div>
+                                <div class="timestamp">3 May 2024, 12:39:38</div>
                             </section>
                         </div>
                     </section>
@@ -647,7 +672,7 @@ Use 2-stage Dockerfile to ensure image reproducible</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2024, 12:24:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2024, 13:19:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
