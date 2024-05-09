@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 71mb of code in 52266 edited files across 18295 commits</small>
+                <small>estimation from 71mb of code in 52269 edited files across 18296 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.83687303831056" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="340.83687303831056" y="0" width="21.40858125343699" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="362.24545429174754" y="0" width="1.3723094937610496" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="363.6177637855086" y="0" width="0.45940290092752156" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="364.0771666864361" y="0" width="0.21994937050949473" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="364.29711605694564" y="0" width="0.163834943231669" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="364.46095100017726" y="0" width="0.08701732982142607" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="364.5479683299987" y="0" width="95.4520316700013" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.8391632111627" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="340.8391632111627" y="0" width="21.408169806097206" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="362.24733301725985" y="0" width="1.3722831196130438" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="363.61961613687293" y="0" width="0.45939407175293784" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="364.07901020862585" y="0" width="0.21994514334552193" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="364.29895535197136" y="0" width="0.16383179451990906" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="364.4627871464913" y="0" width="0.08701565745236778" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="364.54980280394363" y="0" width="95.45019719605635" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -497,6 +497,61 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">l10n_hikari_community</span>
+                                        in
+                                        <span class="repo">Ghost-chu/QuickShop-Hikari</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 May 2024, 20:22:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">l10n_hikari_community</span>
+                                        in
+                                        <span class="repo">Ghost-chu/QuickShop-Hikari</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 May 2024, 20:22:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fb0f2e7</div>
+                                        <div class="message">允许用户禁用 DNS 反查，避免增加 DNS 服务器压力</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 May 2024, 20:09:03</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -532,75 +587,12 @@
                                 <div class="timestamp">9 May 2024, 18:53:28</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Ghost-chu/QuickShop-Hikari</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">l10n_hikari_community</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d96dcf9</div>
-                                        <div class="message">New translations messages.yml (Hindi)</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 May 2024, 18:53:27</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Ghost-chu/QuickShop-Hikari</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">l10n_hikari_community</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a8b0794</div>
-                                        <div class="message">New translations messages.yml (Thai)</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 May 2024, 18:53:26</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Ghost-chu/QuickShop-Hikari</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">l10n_hikari_community</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8ffee04</div>
-                                        <div class="message">New translations messages.yml (Persian)</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 May 2024, 18:53:25</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2024, 19:22:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2024, 20:35:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
