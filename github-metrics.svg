@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 71.2mb of code in 52439 edited files across 18330 commits</small>
+                <small>estimation from 71.2mb of code in 52444 edited files across 18334 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="341.21380591709874" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="341.21380591709874" y="0" width="21.340037791476743" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="362.55384370857547" y="0" width="1.3679157956233834" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="363.92175950419886" y="0" width="0.4582666915358012" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="364.3800261957347" y="0" width="0.21924516264386246" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="364.59927135837853" y="0" width="0.1633103958986991" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="364.7625817542772" y="0" width="0.086738728032457" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="364.84932048230974" y="0" width="95.1506795176903" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="341.2147737368184" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="341.2147737368184" y="0" width="21.339500344603664" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="362.5542740814221" y="0" width="1.3678813447909073" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="363.922155426213" y="0" width="0.45825515013166646" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="364.3804105763447" y="0" width="0.21923964097477022" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="364.59965021731944" y="0" width="0.16330628294152097" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="364.76295650026094" y="0" width="0.08673654352563413" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="364.8496930437866" y="0" width="95.15030695621341" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -497,34 +497,57 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">ip2location</span>
-                                        in
+                                        Pushed 1 commit in
                                         <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2024, 17:07:33</div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e6a6c1b</div>
+                                        <div class="message">修复本地化键</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">12 May 2024, 17:55:33</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">maxmind</span>
-                                        in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                        Opened
+                                        <span class="issue">#106 [开发预览] GeoIP 库与 GUI 增强</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2024, 17:07:29</div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                </div>
+                                <div class="timestamp">12 May 2024, 17:43:07</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#79 [开发预览] Windows / Linux 跨平台 GUI</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                </div>
+                                <div class="timestamp">12 May 2024, 17:41:31</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -541,11 +564,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c9e4511</div>
-                                        <div class="message">在升级脚本中删除旧版本的 banlist.dump 文件</div>
+                                        <div class="sha">#6276f2b</div>
+                                        <div class="message">bump version</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2024, 17:07:24</div>
+                                <div class="timestamp">12 May 2024, 17:38:29</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -562,36 +585,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f61a0fe</div>
-                                        <div class="message">为 mmdb 添加内存缓存</div>
+                                        <div class="sha">#404b431</div>
+                                        <div class="message">可选GUI刷新</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2024, 17:04:38</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a951066</div>
-                                        <div class="message">默认排除新版迅雷0019</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f109ca</div>
-                                        <div class="message">显示每一轮检查的耗时情况</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">12 May 2024, 16:59:56</div>
+                                <div class="timestamp">12 May 2024, 17:36:28</div>
                             </section>
                         </div>
                     </section>
@@ -599,7 +597,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2024, 17:19:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 May 2024, 18:19:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
