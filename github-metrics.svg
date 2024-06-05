@@ -610,7 +610,7 @@ also i noticed the requests dont have a timeout setting, so if it stuck when rea
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated 5 Jun 2024, 20:38:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                        <span>Last updated 5 Jun 2024, 21:23:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
