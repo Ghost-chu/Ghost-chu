@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="937" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="962" class="columns">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 71.9mb of code in 53391 edited files across 18579 commits</small>
+                <small>estimation from 71.9mb of code in 53406 edited files across 18583 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.1083100601434" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="343.1083100601434" y="0" width="20.89267502138628" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="364.00098508152973" y="0" width="1.3829711678805627" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="365.3839562494103" y="0" width="0.44865979868167843" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="365.83261604809195" y="0" width="0.21464900755511815" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="366.0472650556471" y="0" width="0.159886831619774" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="366.20715188726683" y="0" width="0.08492037709859776" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="366.2920722643654" y="0" width="93.70792773563456" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.1258230390713" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="343.1258230390713" y="0" width="20.889544833281516" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="364.0153678723528" y="0" width="1.382763967993784" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="365.3981318403466" y="0" width="0.44859257944989117" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="365.8467244197965" y="0" width="0.21461684835245687" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="366.0613412681489" y="0" width="0.15986287701090116" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="366.2212041451598" y="0" width="0.08490765413449794" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="366.30611179929434" y="0" width="93.6938882007057" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -497,43 +497,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#160 新增基于状态机模型的规则模块</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by PluieM in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">PBH 对于 ClientName、PeerID 和 IP 匹配（本地）都有缓存机制，检查只会执行一次，我在考虑这个状态机是否放在其它地方会好一点。</div>
-                                </div>
-                                <div class="timestamp">20 Jun 2024, 13:19:24</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e9b46fb</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#509b885</div>
-                                        <div class="message">接口返回消息更改为驼峰</div>
+                                        <div class="sha">#3c2db06</div>
+                                        <div class="message">新增字段 NEED_TAKE_ACTION #162
+
+若需要使某些下载器的封禁功能正常工作，PBH 可能需要使用特权身份启动/或者修改特定设置。</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">20 Jun 2024, 13:06:51</div>
+                                <div class="timestamp">20 Jun 2024, 14:19:24</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -545,49 +525,72 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#161 [TODO] OOBE</span>
+                                        <span class="issue">#162 [TODO] 消息推送</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
                                 </div>
-                                <div class="timestamp">20 Jun 2024, 02:39:53</div>
+                                <div class="timestamp">20 Jun 2024, 14:12:04</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#1618 Start Up 1.21[BUG] </span>
+                                        <span class="issue">#160 新增基于状态机模型的规则模块</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by itsurixd in <span class="repo">Ghost-chu/QuickShop-Hikari</span></div>
-                                    <div class="comment">Install latest dev build of ProtocolLib</div>
+                                    <div>opened by PluieM in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">
+                                        同样，建议使用
+                                        <code>%s</code>
+                                        和 String.format
+                                    </div>
                                 </div>
-                                <div class="timestamp">19 Jun 2024, 09:30:21</div>
+                                <div class="timestamp">20 Jun 2024, 13:51:38</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#1618 Start Up 1.21[BUG] </span>
+                                        Commented on
+                                        <span class="issue">#160 新增基于状态机模型的规则模块</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by itsurixd in <span class="repo">Ghost-chu/QuickShop-Hikari</span></div>
+                                    <div>opened by PluieM in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">if 写的有点诡异，但也不是不行。</div>
                                 </div>
-                                <div class="timestamp">19 Jun 2024, 09:30:20</div>
+                                <div class="timestamp">20 Jun 2024, 13:42:46</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#160 新增基于状态机模型的规则模块</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by PluieM in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">避免使用 parallelStream() 除非有十分耗时且大量的操作，否则上下文切换和线程调度开销反而会使得性能变差。
+stream 本身也比较费时，JVM 并不会对 stream 进行太多编译优化，对于十分简单的操作，依然建议使用传统 for 循环。</div>
+                                </div>
+                                <div class="timestamp">20 Jun 2024, 13:25:25</div>
                             </section>
                         </div>
                     </section>
@@ -595,7 +598,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2024, 13:20:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jun 2024, 14:28:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
