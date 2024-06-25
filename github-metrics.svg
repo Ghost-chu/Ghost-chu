@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="982" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="933" class="columns">
     <defs>
         <style/>
     </defs>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 72.1mb of code in 53768 edited files across 18668 commits</small>
+                <small>estimation from 72.1mb of code in 53772 edited files across 18669 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.49619248003205" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="343.49619248003205" y="0" width="20.78213037249308" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="364.27832285252515" y="0" width="1.375653767785731" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="365.6539766203109" y="0" width="0.4462859073601032" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="366.100262527671" y="0" width="0.2135132841902945" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="366.31377581186126" y="0" width="0.1590408588735382" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="366.4728166707348" y="0" width="0.08447105726470222" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="366.5572877279995" y="0" width="93.44271227200046" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.49824811458427" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="343.49824811458427" y="0" width="20.781763685204734" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="364.280011799789" y="0" width="1.3756294952621364" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="365.6556412950511" y="0" width="0.4462780329330708" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="366.1019193279842" y="0" width="0.21350951688608644" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="366.31542884487027" y="0" width="0.15903805270014637" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="366.47446689757044" y="0" width="0.08446956682737086" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="366.5589364643978" y="0" width="93.4410635356022" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -497,6 +497,27 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#166343d</div>
+                                        <div class="message">修复创建 qb 下载器的时候不选择增量封禁时报错的问题</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">25 Jun 2024, 20:19:06</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
                                     </svg>
                                     <div class="content">
@@ -586,41 +607,12 @@ v4.2.0</div>
                                 <div class="timestamp">25 Jun 2024, 17:37:35</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">release</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eb0c891</div>
-                                        <div class="message">删除 debug.log</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c45e943</div>
-                                        <div class="message">删除测试代码</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67c2483</div>
-                                        <div class="message">修复日志溢出问题</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">25 Jun 2024, 17:30:31</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2024, 19:18:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2024, 20:39:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
