@@ -1,4 +1,6 @@
-这里是 Ghost_chu，如你所见，我是一名开源开发者。  
+> 风带来了种子，时间使其发芽
+
+你好，这里是 Ghost_chu，如你所见，我是一名开源开发者。  
 
 ## 主要项目
 
@@ -23,3 +25,7 @@
 ## 支持我的开源项目
 
 [爱发电：Ghost_chu](https://afdian.com/a/Ghost_chu)
+
+## 与我联系
+
+E-mail: `ghostchu {at} qq.com`  
