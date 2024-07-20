@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1473 issue comments
+                            1474 issue comments
                         </div>
                     </section>
                     <section>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 72.5mb of code in 53878 edited files across 18816 commits</small>
+                <small>estimation from 72.5mb of code in 53880 edited files across 18818 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.0201345121844" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="343.0201345121844" y="0" width="20.687453956725903" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="363.70758846891033" y="0" width="1.594857742067392" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="365.30244621097773" y="0" width="0.4442527784479595" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="365.7466989894257" y="0" width="0.22143893056553365" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="365.9681379199912" y="0" width="0.17537147619505639" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="366.14350939618623" y="0" width="0.15831632206192192" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="366.3018257182482" y="0" width="93.69817428175179" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.0201855842031" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="343.0201855842031" y="0" width="20.687444924829435" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="363.7076305090325" y="0" width="1.594857045771461" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="365.302487554804" y="0" width="0.44425258449247756" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="365.7467401392965" y="0" width="0.22143883388792895" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="365.9681789731844" y="0" width="0.17537139962995463" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="366.1435503728144" y="0" width="0.15831625294289772" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="366.30186662575727" y="0" width="93.69813337424276" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -497,6 +497,29 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#6 建议以前缀（地址段）代替IPv6的地址黑名单</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jieyitang in <span class="repo">PBH-BTN/BTN-Collected-Rules</span></div>
+                                    <div class="comment">感谢您的支持。本仓库的规则分为两种：
+
+人工整理规则，通常是 CIDR 表示法
+归纳规则，使用 SQL 从 BTN 中提取，这类规则通常是普通 IP
+
+对于人工整理的规则，已经在使用 /24 /16 /60 进行封禁了。</div>
+                                </div>
+                                <div class="timestamp">21 Jul 2024, 03:00:28</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
@@ -569,44 +592,12 @@
                                 <div class="timestamp">21 Jul 2024, 02:08:47</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#174 [TODO] 系统防火墙集成</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Ghost-chu in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">目前测试封IP有时候会带走 CloudFlare Warp 的 IP 段，一直没有敲定下来是否加上。也欢迎给出自己的意见。
- 
-2908803755
-@.***
- 
------------------- Original ------------------
-From: @.&gt;; 
-Date: 2024年7月21日(星期天) 凌晨0:49
-To: @.&gt;; 
-Cc: @.&gt;; @.&gt;; 
-Subject: Re: [PBH-BTN/PeerBanHelper] [TODO] 系统防火墙集成 (Issue #174)
-感觉这个超出辅助程序范围了。而且遇到异常情况错误添加的规则会导致排查很困难，如果要做的话操作系统规则或者第三方设备可能要有感（有推送通知）更好一点。
-—
-Reply to this email directly, view it on GitHub, or unsubscribe.
-You are receiving this because you authored the thread.Message ID: @.***&gt;</div>
-                                </div>
-                                <div class="timestamp">21 Jul 2024, 00:50:56</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2024, 02:28:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2024, 03:15:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
