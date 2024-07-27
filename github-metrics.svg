@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 72.7mb of code in 54059 edited files across 18907 commits</small>
+                <small>estimation from 72.7mb of code in 54062 edited files across 18908 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.38048746206687" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="343.38048746206687" y="0" width="20.702992845967167" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="364.08348030803404" y="0" width="1.6071869628766053" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="365.69066727091064" y="0" width="0.44458646836136617" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="366.135253739272" y="0" width="0.22324403112766028" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="366.35849777039965" y="0" width="0.20405803094556704" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="366.56255580134524" y="0" width="0.1584352376036193" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="366.72099103894885" y="0" width="93.27900896105118" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.38338778910656" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="343.38338778910656" y="0" width="20.702477962577174" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="364.08586575168374" y="0" width="1.607146992140106" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="365.69301274382383" y="0" width="0.44457541149680185" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="366.13758815532066" y="0" width="0.22323847904906" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="366.36082663436974" y="0" width="0.2040529560227523" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="366.5648795903925" y="0" width="0.1584312973195822" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="366.7233108877121" y="0" width="93.27668911228794" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -507,6 +507,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#3b94f14</div>
+                                        <div class="message">在 Javalin 上统一处理错误</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">27 Jul 2024, 18:29:15</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#61c6393</div>
                                         <div class="message">添加 IP 黑名单接口</div>
                                     </div>
@@ -577,33 +598,12 @@
                                 <div class="timestamp">27 Jul 2024, 16:13:18</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8c79f07</div>
-                                        <div class="message">图表功能</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">27 Jul 2024, 01:44:35</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2024, 18:22:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2024, 19:18:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
