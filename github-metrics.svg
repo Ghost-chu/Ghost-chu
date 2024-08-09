@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 72.4mb of code in 53895 edited files across 19016 commits</small>
+                <small>estimation from 72.4mb of code in 53908 edited files across 19019 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.07684388561745" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="342.07684388561745" y="0" width="21.037002961760084" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="363.11384684737754" y="0" width="1.6394787507161073" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="364.7533255980937" y="0" width="0.4517591693752812" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="365.205084767469" y="0" width="0.25136830925249065" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="365.45645307672146" y="0" width="0.2073501852273998" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="365.66380326194883" y="0" width="0.16099134011746294" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="365.82479460206633" y="0" width="94.17520539793368" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.08631719249246" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="342.08631719249246" y="0" width="21.035099991039544" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="363.12141718353195" y="0" width="1.639848814160143" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="364.76126599769213" y="0" width="0.4517183040260858" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="365.21298430171817" y="0" width="0.2513455709121744" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="365.46432987263034" y="0" width="0.20733142869006876" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="365.6716613013204" y="0" width="0.16097677712067765" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="365.8326380784411" y="0" width="94.16736192155886" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -497,6 +497,69 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d48be5e</div>
+                                        <div class="message">Update progress-rewind.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Aug 2024, 00:16:53</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8ff8f7c</div>
+                                        <div class="message">Update progress-rewind.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Aug 2024, 00:14:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b178ce0</div>
+                                        <div class="message">同步更改</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 Aug 2024, 23:49:31</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
@@ -532,75 +595,12 @@
                                 <div class="timestamp">9 Aug 2024, 22:02:29</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#301089a</div>
-                                        <div class="message">Update untrusted-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Aug 2024, 21:28:09</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2c03a51</div>
-                                        <div class="message">Create untrusted-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Aug 2024, 21:27:58</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#73031f3</div>
-                                        <div class="message">Update multi-dial.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Aug 2024, 21:21:16</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2024, 23:24:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Aug 2024, 00:27:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
