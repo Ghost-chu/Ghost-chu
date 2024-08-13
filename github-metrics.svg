@@ -501,17 +501,38 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#36ab3f3</div>
-                                        <div class="message">Update jvm-ci.yml</div>
+                                        <div class="sha">#725a445</div>
+                                        <div class="message">Update progress-rewind.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Aug 2024, 21:16:31</div>
+                                <div class="timestamp">13 Aug 2024, 21:51:46</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#43f0280</div>
+                                        <div class="message">Update random-peerid.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">13 Aug 2024, 21:35:18</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -528,17 +549,17 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6b4da38</div>
-                                        <div class="message">Merge pull request #315 from PBH-BTN/renovate/slf4j-monorepo
+                                        <div class="sha">#225b4f0</div>
+                                        <div class="message">Merge pull request #317 from PBH-BTN/renovate/docker-build-push-action-6.x
 
-Update dependency org.slf4j:slf4j-api to v2.0.16</div>
+Update docker/build-push-action action to v6.7.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d934ad9</div>
-                                        <div class="message">Update dependency org.slf4j:slf4j-api to v2.0.16</div>
+                                        <div class="sha">#7ca7297</div>
+                                        <div class="message">Update docker/build-push-action action to v6.7.0</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Aug 2024, 21:05:19</div>
+                                <div class="timestamp">13 Aug 2024, 21:22:47</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -549,14 +570,14 @@ Update dependency org.slf4j:slf4j-api to v2.0.16</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#315 Update dependency org.slf4j:slf4j-api to v2.0.16</span>
+                                        <span class="issue">#317 Update docker/build-push-action action to v6.7.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by renovate[bot] in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>2 files changed <span class="code">++3 --3</span></div>
                                 </div>
-                                <div class="timestamp">13 Aug 2024, 21:05:19</div>
+                                <div class="timestamp">13 Aug 2024, 21:22:46</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -573,32 +594,11 @@ Update dependency org.slf4j:slf4j-api to v2.0.16</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bea6fb6</div>
+                                        <div class="sha">#0f3758e</div>
                                         <div class="message">Update jvm-release.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Aug 2024, 21:03:38</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a4a1aad</div>
-                                        <div class="message">Update jvm-ci.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">13 Aug 2024, 21:01:27</div>
+                                <div class="timestamp">13 Aug 2024, 21:17:46</div>
                             </section>
                         </div>
                     </section>
@@ -606,7 +606,7 @@ Update dependency org.slf4j:slf4j-api to v2.0.16</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2024, 22:20:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Aug 2024, 23:23:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
