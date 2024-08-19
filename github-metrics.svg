@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="953" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="933" class="columns">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1542 issue comments
+                            1544 issue comments
                         </div>
                     </section>
                     <section>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 73mb of code in 54233 edited files across 19152 commits</small>
+                <small>estimation from 73mb of code in 54243 edited files across 19155 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.03899497722875" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="342.03899497722875" y="0" width="20.974773982786765" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="363.01376896001557" y="0" width="1.635145935013456" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="364.648914895029" y="0" width="0.4504228330205657" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="365.0993377280496" y="0" width="0.30956486670440103" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="365.408902594754" y="0" width="0.2506247435811132" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="365.6595273383352" y="0" width="0.22620602129857115" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="365.8857333596337" y="0" width="94.11426664036634" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.04976648669066" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="342.04976648669066" y="0" width="20.972858689030396" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="363.02262517572103" y="0" width="1.6349966230445807" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="364.65762179876566" y="0" width="0.4503817030403085" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="365.10800350180597" y="0" width="0.3095365990502715" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="365.41754010085623" y="0" width="0.25060185799450485" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="365.6681419588507" y="0" width="0.22618536548694707" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="365.89432732433767" y="0" width="94.10567267566238" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -497,6 +497,49 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#338 [BUG] Failed to startup PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by wannacry601 in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">
+                                        给下载器起名字的时候加
+                                        <code>.</code>
+                                        了？
+                                    </div>
+                                </div>
+                                <div class="timestamp">19 Aug 2024, 17:40:23</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#79e52ff</div>
+                                        <div class="message">Update progress-rewind.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">19 Aug 2024, 17:19:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -556,63 +599,12 @@
                                 <div class="timestamp">19 Aug 2024, 03:21:47</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/Sparkle</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#62bcd0f</div>
-                                        <div class="message">Tracker 跑通</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 Aug 2024, 03:18:44</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#335 [BUG] 通过Logout释放Memory以解决QB Memory Leak问题</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by CXwudi in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">Our qBittorrent adapter obviously reuses login sessions. We only use one session unless the session expires.
-This shouldn't cause a memory leak, since we don't open new sessions indefinitely. If this causes a memory leak, I think qBittorrent is responsible for it.
-Frequent login/logout may have a negative impact on the downloader's performance.
-Consider that I am also running an instance of qBittorrent (along with PeerBanHelper) for a month. I have not observed any memory leaks, and this Issue does not make a strong case for memory leaks due to API sessions. So I'm leaning more towards other issues.
-This Issue seems to me to be just a random Issue from qBittorrent's Issues that I'm looking for and associating with a potentially relevant Issue. This behavior is like trying to find a sword in a boat.
-I wouldn't consider investigating it in depth or implementing mitigations until there is further compelling evidence (as it works fine on my device and many other users' devices). A memory leak alone does not prove that this is related to PeerBanHelper.
-
-我们的 qBittorrent 适配器显然会复用登录会话。除非会话过期，否则我们仅使用一个会话。
-这不应该造成内存泄露，因为我们并没有无限制的打开新的会话。如果这造成了内存泄漏，我想 qBittorrent 应对此负责。
-频繁的登录/登出可能对下载器的性能存在负面影响。
-考虑到我也用在运行一个 qBittorrent 实例（与 PeerBanHelper 一同），并且持续运行了一个月。我没有观察到有内存泄露的情况发生，且此 Issue 无法有力的证明是 API 会话导致的内存泄漏。因此我更倾向于是其他问题。
-这个 Issue 在我看来只是从 qBittorrent 的 Issues 中随机寻找了一个可能有关的Issue，并与其关联起来。这种行为无异于刻舟求剑。
-在有进一步的有力证据之前，我不会考虑深入调查它或者执行缓解措施（因为它在我的设备和许多其它用户的设备上运行良好）。单纯的内存泄露不能证明这就和 PeerBanHelper 有关。</div>
-                                </div>
-                                <div class="timestamp">19 Aug 2024, 02:40:20</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2024, 17:24:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2024, 18:26:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
