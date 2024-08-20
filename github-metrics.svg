@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1004" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1021" class="columns">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1547 issue comments
+                            1548 issue comments
                         </div>
                     </section>
                     <section>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 73.3mb of code in 54538 edited files across 19197 commits</small>
+                <small>estimation from 73.3mb of code in 54539 edited files across 19198 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.67486332469866" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="339.67486332469866" y="0" width="20.827240965246546" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="360.50210428994524" y="0" width="1.739653647145697" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="362.24175793709094" y="0" width="0.4472546348898458" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="362.6890125719808" y="0" width="0.30738743971773524" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="362.99640001169854" y="0" width="0.24886189146546658" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="363.24526190316396" y="0" width="0.22461492635111985" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="363.4698768295151" y="0" width="96.53012317048493" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.67217594351825" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="339.67217594351825" y="0" width="20.827076187862485" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="360.49925213138073" y="0" width="1.7396398836530853" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="362.2388920150338" y="0" width="0.44725109637752586" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="362.68614311141135" y="0" width="0.30738500778264144" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="362.99352811919397" y="0" width="0.24885992256274267" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="363.2423880417567" y="0" width="0.22461314928136553" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="363.4670011910381" y="0" width="96.53299880896186" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -501,6 +501,45 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#347 [BUG] 从应用程序中打开WebUI失败</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by cangming0703 in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">已知问题，请清除出问题浏览器的浏览器缓存</div>
+                                </div>
+                                <div class="timestamp">20 Aug 2024, 15:18:35</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#09b9ad9</div>
+                                        <div class="message">Update config.yml</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">20 Aug 2024, 15:10:17</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#346 [BUG] 打开WebUI按钮不读取配置文件地址</span>
                                     </div>
                                 </div>
@@ -547,54 +586,12 @@
                                 <div class="timestamp">20 Aug 2024, 13:57:44</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a658316</div>
-                                        <div class="message">Update jvm-ci-pr.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 Aug 2024, 03:14:21</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a2d7df6</div>
-                                        <div class="message">Update jvm-ci.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 Aug 2024, 03:13:59</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2024, 14:31:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2024, 15:21:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
