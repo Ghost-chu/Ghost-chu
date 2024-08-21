@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="935" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="930" class="columns">
     <defs>
         <style/>
     </defs>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1556 issue comments
+                            1557 issue comments
                         </div>
                     </section>
                     <section>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 65.6mb of code in 54519 edited files across 19330 commits</small>
+                <small>estimation from 65.6mb of code in 54524 edited files across 19335 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.22173367159974" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="405.22173367159974" y="0" width="2.086814709013508" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="407.3085483806132" y="0" width="0.536033251338521" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="407.84458163195177" y="0" width="0.39537508412356537" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="408.2399567160753" y="0" width="0.37222408443088384" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="408.6121808005062" y="0" width="0.2801606484549143" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="408.89234144896113" y="0" width="0.2700204360291343" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="409.1623618849902" y="0" width="50.837638115009725" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.2180883813029" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="405.2180883813029" y="0" width="2.0867959364631288" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="407.30488431776604" y="0" width="0.536028429295063" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="407.84091274706105" y="0" width="0.3953715274116765" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="408.2362842744727" y="0" width="0.3722207359805652" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="408.6085050104533" y="0" width="0.2801581281880863" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="408.88866313864133" y="0" width="0.27001800698154477" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="409.1586811456229" y="0" width="50.841318854377015" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -501,14 +501,21 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#357 v6.0.2</span>
+                                        <span class="issue">#359 可以增加一个显示BTN状态部分吗</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Ghost-chu in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">准备就绪时 Approval 下 PR，我先去吃点东西</div>
+                                    <div>opened by Kaffu-Chino in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">
+                                        BTN 实际上并非长连接，偶尔的连接失败也不会影响 BTN 的数据提交。实际上这个状态显示意义并不大。
+                                        <i>BTN-Spec 设计时考虑到中心化服务器容易遭到攻击或者数据泄露等情况，因此它被设计为可以在极低服务质量保证的情况下为大量用户提供服务。</i>
+                                        <i>不使用任何长连接
+提交/获取数据时，不影响缓存数据
+抛去需要动态环境的功能，其其余的规则分发等功能，应当可以在完全静态环境中部署（如：Github Pages），提高抗故障能力
+最后，本规范设计时着重考虑了带宽消耗，避免服务器在任何非必要的情况下向客户端传输额外数据</i>
+                                    </div>
                                 </div>
-                                <div class="timestamp">21 Aug 2024, 20:43:36</div>
+                                <div class="timestamp">21 Aug 2024, 21:33:32</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -525,11 +532,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0da8eb9</div>
+                                        <div class="sha">#782f574</div>
                                         <div class="message">[Sparkle] 自动更新 go.torrent dev 20181121.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Aug 2024, 20:25:21</div>
+                                <div class="timestamp">21 Aug 2024, 21:25:22</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -546,11 +553,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ef23f3a</div>
+                                        <div class="sha">#8e87567</div>
                                         <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Aug 2024, 20:25:19</div>
+                                <div class="timestamp">21 Aug 2024, 21:25:19</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Forked
+                                        <span class="repo">c0re100/qBittorrent-Enhanced-Edition</span>
+                                        to
+                                        <span class="repo">Ghost-chu/qBittorrent-Enhanced-Edition</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Aug 2024, 21:24:35</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -566,27 +589,9 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by Ghost-chu in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">@coderabbitai review</div>
+                                    <div class="comment">准备就绪时 Approval 下 PR，我先去吃点东西</div>
                                 </div>
-                                <div class="timestamp">21 Aug 2024, 20:03:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#357 v6.0.2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div>166 files changed <span class="code">++14591 --105</span></div>
-                                </div>
-                                <div class="timestamp">21 Aug 2024, 20:02:35</div>
+                                <div class="timestamp">21 Aug 2024, 20:43:36</div>
                             </section>
                         </div>
                     </section>
@@ -594,7 +599,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2024, 22:22:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Aug 2024, 23:22:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
