@@ -316,7 +316,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 67.1mb of code in 55473 edited files across 19864 commits</small>
+                <small>estimation from 67.1mb of code in 55478 edited files across 19869 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -507,11 +507,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4b24b29</div>
+                                        <div class="sha">#5759635</div>
                                         <div class="message">[Sparkle] 自动更新 strange_ipv6_block.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Sept 2024, 14:59:23</div>
+                                <div class="timestamp">2 Sept 2024, 15:59:41</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -528,11 +528,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d2e6b76</div>
+                                        <div class="sha">#4ed91ef</div>
                                         <div class="message">[Sparkle] 自动更新 dot1_v6_tagging.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Sept 2024, 14:59:21</div>
+                                <div class="timestamp">2 Sept 2024, 15:59:38</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -549,11 +549,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bc62428</div>
-                                        <div class="message">[Sparkle] 自动更新 go.torrent dev 20181121.txt</div>
+                                        <div class="sha">#169d02a</div>
+                                        <div class="message">[Sparkle] 自动更新 random-peerid.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Sept 2024, 13:59:03</div>
+                                <div class="timestamp">2 Sept 2024, 15:59:36</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -570,11 +570,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2db4acd</div>
-                                        <div class="message">[Sparkle] 自动更新 strange_ipv6_block.txt</div>
+                                        <div class="sha">#3ceec32</div>
+                                        <div class="message">[Sparkle] 自动更新 0xde-0xad-0xbe-0xef.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Sept 2024, 12:58:54</div>
+                                <div class="timestamp">2 Sept 2024, 15:59:33</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -591,11 +591,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3df7814</div>
-                                        <div class="message">[Sparkle] 自动更新 dot1_v6_tagging.txt</div>
+                                        <div class="sha">#db79c6c</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Sept 2024, 12:58:52</div>
+                                <div class="timestamp">2 Sept 2024, 15:59:26</div>
                             </section>
                         </div>
                     </section>
@@ -603,7 +603,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2024, 15:21:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Sept 2024, 16:29:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
