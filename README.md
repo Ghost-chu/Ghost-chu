@@ -7,7 +7,7 @@
 ### [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)
 
 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。也许是目前最完善的 BitTorrent 外置反吸血工具。通过多个检测模块、规则订阅和 BTN 网络，与恶意利用 BitTorrent 的刷流者对抗。  
-支持：qBittorrent/Transmission/BiglyBT/Deluge/Vuze(Azureus)  
+支持：qBittorrent/Transmission/BiglyBT/Deluge/Vuze(Azureus) [安装和常见问题](https://pbh-btn.github.io/pbh-docs/docs/intro)
 
 ### [Sparkle](https://github.com/PBH-BTN/Sparkle)
 
