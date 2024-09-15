@@ -9,6 +9,11 @@
 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。也许是目前最完善的 BitTorrent 外置反吸血工具。通过多个检测模块、规则订阅和 BTN 网络，与恶意利用 BitTorrent 的刷流者对抗。  
 支持：qBittorrent/Transmission/BiglyBT/Deluge/Vuze(Azureus)  
 
+### [Sparkle](https://github.com/PBH-BTN/Sparkle)
+
+使用 Java 与 PostgreSQL 实现的 BTN 服务器，能够接收 PBH 等 BTN 兼容客户端的数据上报，并下发云规则。除此之外，Sparkle 也是首个使用 Java 语言的支持 Scrape 和紧凑压缩格式 Peers 响应的 Bittorrent Tracker。  
+支持客户端新特征发现，并通过聚合分析快照&封禁数据，生成 IP 封禁规则，并与 Github 仓库自动保持同步。
+
 ### [QuickShop-Hikari](https://github.com/QuickShop-Community/QuickShop-Hikari)
 
 *目前我不再继续维护此项目，正在进行交接工作*  
