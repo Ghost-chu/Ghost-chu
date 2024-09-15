@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="926" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="964" class="columns">
     <defs>
         <style/>
     </defs>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 67.9mb of code in 56249 edited files across 20545 commits</small>
+                <small>estimation from 67.9mb of code in 56255 edited files across 20549 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.884898722871" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="387.884898722871" y="0" width="2.0578123248758957" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="389.9427110477469" y="0" width="0.8040292573343256" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="390.7467403050813" y="0" width="0.7103305468744832" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="391.45707085195573" y="0" width="0.6704485316531142" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="392.1275193836089" y="0" width="0.3789770254971218" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="392.50649640910603" y="0" width="0.292503704675778" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="392.7990001137818" y="0" width="67.2009998862183" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.87364415199323" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="387.87364415199323" y="0" width="2.057752616970948" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="389.9313967689642" y="0" width="0.8040059282377451" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="390.73540269720195" y="0" width="0.710309936467858" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="391.4457126336698" y="0" width="0.6746289367530197" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="392.12034157042285" y="0" width="0.37896602939026497" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="392.49930759981316" y="0" width="0.2924952176125098" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="392.79180281742566" y="0" width="67.20819718257441" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -497,63 +497,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                        Commented on
+                                        <span class="issue">#477 feat: detect private torrents on qBittorrents v4.x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#39ac8b0</div>
-                                        <div class="message">try fix</div>
+                                    <div>opened by ccloli in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">
+                                        需要重构。
+这个 filter 很奇怪，因为上面的 future 里面，不管 qb 版本时多少都发起了一次请求，因此这里不可能为 null。
+                                        <br />
+                                        同时需要修复 qb 5.0.0+ 行为被破坏的问题。
                                     </div>
                                 </div>
-                                <div class="timestamp">15 Sept 2024, 20:40:44</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0b8ce0c</div>
-                                        <div class="message">try fix</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Sept 2024, 20:38:05</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c2765cb</div>
-                                        <div class="message">checkpoint</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Sept 2024, 20:02:40</div>
+                                <div class="timestamp">15 Sept 2024, 21:16:56</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -569,9 +529,11 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by ccloli in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">在 check-interval 上加个 1 分钟就够了</div>
+                                    <div class="comment">使用 try-catch 重构：
+https://github.com/PBH-BTN/PeerBanHelper/blob/88bc21df42c534ca44e9546fe22d481cac84e992/src/main/java/com/ghostchu/peerbanhelper/PeerBanHelperServer.java#L662-L671
+示例代码中，只有 Executor 的所有 task 完成才会离开 try-catch 块，以此提高可读性。</div>
                                 </div>
-                                <div class="timestamp">15 Sept 2024, 19:53:18</div>
+                                <div class="timestamp">15 Sept 2024, 21:14:49</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -588,7 +550,49 @@
                                 <div class="details">
                                     <div>opened by ccloli in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
                                 </div>
-                                <div class="timestamp">15 Sept 2024, 19:53:19</div>
+                                <div class="timestamp">15 Sept 2024, 21:17:04</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c1de8e6</div>
+                                        <div class="message">试试 env.</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Sept 2024, 21:10:29</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#07679af</div>
+                                        <div class="message">修复环境变量</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Sept 2024, 20:52:36</div>
                             </section>
                         </div>
                     </section>
@@ -596,7 +600,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2024, 20:41:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2024, 21:24:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
