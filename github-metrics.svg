@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="926" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1061" class="columns">
     <defs>
         <style/>
     </defs>
@@ -316,7 +316,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 67.9mb of code in 56482 edited files across 20707 commits</small>
+                <small>estimation from 67.9mb of code in 56485 edited files across 20710 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -507,11 +507,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0cdf2f3</div>
-                                        <div class="message">[Sparkle] 自动更新 strange_ipv6_block.txt</div>
+                                        <div class="sha">#f7acee8</div>
+                                        <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Sept 2024, 03:46:57</div>
+                                <div class="timestamp">17 Sept 2024, 04:47:18</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -528,11 +528,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a1a65ad</div>
-                                        <div class="message">[Sparkle] 自动更新 dot1_v6_tagging.txt</div>
+                                        <div class="sha">#1487c88</div>
+                                        <div class="message">[Sparkle] 自动更新 strange_ipv6_block.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Sept 2024, 03:46:54</div>
+                                <div class="timestamp">17 Sept 2024, 04:47:15</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -544,12 +544,12 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.0.19</span>
+                                        <span class="code">v6.2.5</span>
                                         in
                                         <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Sept 2024, 03:46:22</div>
+                                <div class="timestamp">17 Sept 2024, 03:55:32</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -559,13 +559,13 @@
                                         <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
                                     </svg>
                                     <div class="content">
-                                        Pre-released
-                                        <span class="bold">测试工作流</span>
+                                        Released
+                                        <span class="bold">v6.2.5</span>
                                         of
                                         <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Sept 2024, 03:46:22</div>
+                                <div class="timestamp">17 Sept 2024, 03:55:32</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -575,18 +575,60 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 11 commits in
                                         <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">release</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cf1f0e5</div>
+                                        <div class="message">Merge pull request #495 from PBH-BTN/master
+
+v6.2.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd59d14</div>
+                                        <div class="message">bump version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7ae02b</div>
+                                        <div class="message">更新 install4j 设置</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#d51dcd5</div>
                                         <div class="message">安装打包程序仅在无合适 Java 时才安装 Java</div>
                                     </div>
+                                    <div class="commit">
+                                        <div class="sha">#f173a92</div>
+                                        <div class="message">fix ci</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ffea4d</div>
+                                        <div class="message">fix ci</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62e104d</div>
+                                        <div class="message">release 时使用自定义的 ref name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#064b010</div>
+                                        <div class="message">release 时使用自定义的 ref name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8a4128</div>
+                                        <div class="message">show 后更新theme</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a627097</div>
+                                        <div class="message">fix rpm package</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e72fba1</div>
+                                        <div class="message">更新 media file name</div>
+                                    </div>
                                 </div>
-                                <div class="timestamp">17 Sept 2024, 03:45:54</div>
+                                <div class="timestamp">17 Sept 2024, 03:54:58</div>
                             </section>
                         </div>
                     </section>
@@ -594,7 +636,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Sept 2024, 06:20:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Sept 2024, 07:20:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
