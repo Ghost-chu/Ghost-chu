@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="953" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1216" class="columns">
     <defs>
         <style/>
     </defs>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 67.3mb of code in 56244 edited files across 20772 commits</small>
+                <small>estimation from 67.3mb of code in 56254 edited files across 20779 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="400.37482327672774" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="400.37482327672774" y="0" width="1.7519500464857967" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="402.12677332321357" y="0" width="0.6974818443947874" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="402.8242551676084" y="0" width="0.5666481938277479" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="403.3909033614361" y="0" width="0.37606474657417305" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="403.76696810801025" y="0" width="0.2738760122594157" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="404.04084412026964" y="0" width="0.19151276705565262" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="404.2323568873253" y="0" width="55.767643112674676" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="400.3621673746333" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="400.3621673746333" y="0" width="1.752404865774178" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="402.11457224040754" y="0" width="0.7097045648678784" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="402.8242768052754" y="0" width="0.5684159773307008" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="403.3926927826061" y="0" width="0.3760528591168778" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="403.768745641723" y="0" width="0.273867355001777" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="404.04261299672476" y="0" width="0.19150671331128916" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="404.23411971003605" y="0" width="55.76588028996396" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -509,17 +509,137 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                        <span class="repo">PBH-BTN/views-counter</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#554d284</div>
-                                        <div class="message">[Sparkle] 自动更新 strange_ipv6_block.txt</div>
+                                        <div class="sha">#e277caa</div>
+                                        <div class="message">Update views</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">23 Sept 2024, 00:50:09</div>
+                                <div class="timestamp">23 Sept 2024, 02:18:34</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 169 commits in
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">new-push-alerts</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#70cbc02</div>
+                                        <div class="message">更新CI脚本</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dbc33f</div>
+                                        <div class="message">修复图标文件不是正方形的问题导致显示炸裂模糊的问题</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a67498c</div>
+                                        <div class="message">feat: update description</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7385642</div>
+                                        <div class="message">Revert "feat: remove webui required version tip"
+
+This reverts commit d9311acb3d280337731aec8112f29d320313e2c8.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5484274</div>
+                                        <div class="message">refactor: use try-with-resources</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b83add</div>
+                                        <div class="message">正确定义跨平台配置文件存储位置</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88bc21d</div>
+                                        <div class="message">feat: move cache loader into request method</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d290b0b</div>
+                                        <div class="message">chore: normalize method name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23ea38a</div>
+                                        <div class="message">feat: add cache expire time</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9042a46</div>
+                                        <div class="message">feat: use cache loader &amp; shutdown without waiting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6fecd8</div>
+                                        <div class="message">feat: use guava cache and virtual thread</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a816a89</div>
+                                        <div class="message">fix: log level</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9311ac</div>
+                                        <div class="message">feat: remove webui required version tip</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0758181</div>
+                                        <div class="message">feat: apply changes to qBittorrentEE</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1313728</div>
+                                        <div class="message">fix: import</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91fe471</div>
+                                        <div class="message">fix: fix async private torrent is not filtered</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f45d0eb</div>
+                                        <div class="message">feat: add log</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7411222</div>
+                                        <div class="message">fix: npe</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b883c71</div>
+                                        <div class="message">fix: typo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d8d756</div>
+                                        <div class="message">feat: detect private torrents on qBittorrent v4.x</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">23 Sept 2024, 01:53:14</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">history-module</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6674136</div>
+                                        <div class="message">Merge branch 'refs/heads/master' into history-module</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">23 Sept 2024, 01:50:56</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -536,32 +656,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#37fd8df</div>
-                                        <div class="message">[Sparkle] 自动更新 dot1_v6_tagging.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Sept 2024, 00:50:06</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#87f900b</div>
+                                        <div class="sha">#453d9f1</div>
                                         <div class="message">[Sparkle] 自动更新 ipv6-dhcp-address.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">22 Sept 2024, 23:49:47</div>
+                                <div class="timestamp">23 Sept 2024, 01:50:42</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -578,32 +677,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fe4c2ca</div>
-                                        <div class="message">[Sparkle] 自动更新 strange_ipv6_block.txt</div>
+                                        <div class="sha">#0eb1de3</div>
+                                        <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">22 Sept 2024, 23:49:41</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#796d45a</div>
-                                        <div class="message">[Sparkle] 自动更新 dot1_v6_tagging.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">22 Sept 2024, 23:49:37</div>
+                                <div class="timestamp">23 Sept 2024, 01:50:40</div>
                             </section>
                         </div>
                     </section>
@@ -611,7 +689,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2024, 01:20:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2024, 02:29:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
