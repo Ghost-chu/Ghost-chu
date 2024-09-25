@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 69.9mb of code in 56051 edited files across 21585 commits</small>
+                <small>estimation from 69.8mb of code in 55468 edited files across 21486 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.91866543878797" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="382.91866543878797" y="0" width="19.36011179605784" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="402.27877723484585" y="0" width="1.7005730608910496" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="403.97935029573694" y="0" width="0.6893498256146483" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="404.6687001213516" y="0" width="0.5516036375541606" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="405.22030375890574" y="0" width="0.26576703550053" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="405.4860707944063" y="0" width="0.18584241803796211" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.6719132124442" y="0" width="54.328086787555854" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.7591769012205" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="382.7591769012205" y="0" width="19.417381267622456" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="402.1765581688429" y="0" width="1.7056035545979136" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="403.8821617234408" y="0" width="0.6913890029010187" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="404.5735507263418" y="0" width="0.5532353455302623" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="405.1267860718721" y="0" width="0.2665532054277879" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="405.3933392772999" y="0" width="0.186392161613177" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.5797314389131" y="0" width="54.42026856108691" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -505,18 +505,21 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#526 New Crowdin updates</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div>420 files changed <span class="code">++17550 --17550</span></div>
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#80bf4d7</div>
+                                        <div class="message">[Sparkle] 自动更新 ipv6-dhcp-address.txt</div>
+                                    </div>
                                 </div>
-                                <div class="timestamp">25 Sept 2024, 05:16:06</div>
+                                <div class="timestamp">25 Sept 2024, 07:16:35</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -527,17 +530,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">l10n_master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#af35237</div>
-                                        <div class="message">New translations en-us.ts (Chinese Traditional, Hong Kong)</div>
+                                        <div class="sha">#d35455f</div>
+                                        <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Sept 2024, 05:16:05</div>
+                                <div class="timestamp">25 Sept 2024, 07:16:30</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -548,17 +551,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">l10n_master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f2ad69a</div>
-                                        <div class="message">New translations en-us.ts (English, United States)</div>
+                                        <div class="sha">#507b392</div>
+                                        <div class="message">[Sparkle] 自动更新 strange_ipv6_block.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Sept 2024, 05:16:04</div>
+                                <div class="timestamp">25 Sept 2024, 07:16:27</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -569,17 +572,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">l10n_master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#09f1132</div>
-                                        <div class="message">New translations en-us.ts (Portuguese, Brazilian)</div>
+                                        <div class="sha">#ab5790a</div>
+                                        <div class="message">[Sparkle] 自动更新 dot1_v6_tagging.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Sept 2024, 05:16:03</div>
+                                <div class="timestamp">25 Sept 2024, 07:16:23</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -590,17 +593,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">l10n_master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#874a88c</div>
-                                        <div class="message">New translations en-us.ts (Vietnamese)</div>
+                                        <div class="sha">#13feca4</div>
+                                        <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Sept 2024, 05:16:02</div>
+                                <div class="timestamp">25 Sept 2024, 07:15:55</div>
                             </section>
                         </div>
                     </section>
@@ -608,7 +611,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2024, 09:50:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2024, 10:56:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
