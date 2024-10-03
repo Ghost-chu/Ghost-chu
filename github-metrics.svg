@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 110 repositories
+                            Contributed to 109 repositories
                         </div>
                     </section>
                 </div>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 65.6mb of code in 54584 edited files across 21066 commits</small>
+                <small>estimation from 66.3mb of code in 53685 edited files across 20957 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.24386915194583" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="420.24386915194583" y="0" width="1.6544707530758038" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="421.8983399050216" y="0" width="0.7680984389323762" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="422.666438343954" y="0" width="0.6125425813178413" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="423.27898092527187" y="0" width="0.27289476148004443" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="423.5518756867519" y="0" width="0.26537603357631157" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="423.8172517203282" y="0" width="0.20308356767958194" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="424.02033528800774" y="0" width="35.97966471199219" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.8430671841917" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="403.8430671841917" y="0" width="1.6062268098740193" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="405.4492939940657" y="0" width="0.745700885278229" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="406.19499487934394" y="0" width="0.5946809966105664" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="406.78967587595446" y="0" width="0.41359328638247517" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="407.20326916233694" y="0" width="0.28422601135424086" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="407.48749517369123" y="0" width="0.19875019157239332" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.6862453652636" y="0" width="52.3137546347364" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -515,6 +515,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#c3e325b</div>
+                                        <div class="message">[Sparkle] 自动更新 dot1_v6_tagging.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Oct 2024, 22:02:03</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#27f55fd</div>
                                         <div class="message">[Sparkle] 自动更新 dot1_v6_tagging.txt</div>
                                     </div>
@@ -585,33 +606,12 @@
                                 <div class="timestamp">3 Oct 2024, 20:00:22</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#73f3975</div>
-                                        <div class="message">[Sparkle] 自动更新 dot1_v6_tagging.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">3 Oct 2024, 20:00:14</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2024, 23:26:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Oct 2024, 00:30:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
