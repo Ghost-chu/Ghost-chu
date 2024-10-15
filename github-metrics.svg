@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1196" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="931" class="columns">
     <defs>
         <style/>
     </defs>
@@ -316,7 +316,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 70.1mb of code in 59417 edited files across 22880 commits</small>
+                <small>estimation from 70.1mb of code in 59420 edited files across 22883 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -507,6 +507,48 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#6b789c5</div>
+                                        <div class="message">[Sparkle] 自动更新 0xde-0xad-0xbe-0xef.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Oct 2024, 17:24:29</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e60a46a</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Oct 2024, 17:24:12</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#5404e79</div>
                                         <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
@@ -556,166 +598,12 @@
                                 <div class="timestamp">15 Oct 2024, 16:23:40</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5f33a5b</div>
-                                        <div class="message">fix port delete</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Oct 2024, 15:48:30</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 295 commits in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">config-editor</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#785b8fa</div>
-                                        <div class="message">Merge pull request #363 from PBH-BTN/master
-
-hot patch for build workflow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b32358</div>
-                                        <div class="message">Merge branch 'refs/heads/master' into release</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff56abd</div>
-                                        <div class="message">Merge pull request #357 from PBH-BTN/master
-
-v6.0.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1475a49</div>
-                                        <div class="message">Merge pull request #300 from PBH-BTN/master
-
-v6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9eb338a</div>
-                                        <div class="message">Merge pull request #289 from PBH-BTN/master
-
-v5.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1666566</div>
-                                        <div class="message">Merge branch 'refs/heads/master' into release</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52196d5</div>
-                                        <div class="message">Merge pull request #280 from PBH-BTN/master
-
-v5.0.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03a2b61</div>
-                                        <div class="message">Merge pull request #275 from PBH-BTN/master
-
-v5.0.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49eaf4b</div>
-                                        <div class="message">Merge pull request #270 from PBH-BTN/master
-
-v5.0.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce20485</div>
-                                        <div class="message">Merge pull request #267 from PBH-BTN/master
-
-v5.0.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#955b02a</div>
-                                        <div class="message">Merge pull request #262 from PBH-BTN/master
-
-v5.0.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ba7c2d</div>
-                                        <div class="message">Merge pull request #258 from PBH-BTN/master
-
-5.0.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d2c2a3</div>
-                                        <div class="message">Merge pull request #256 from PBH-BTN/master
-
-v5.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c475b8</div>
-                                        <div class="message">Merge pull request #245 from PBH-BTN/master
-
-v5.0.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2b6a08</div>
-                                        <div class="message">Merge pull request #209 from PBH-BTN/master
-
-v4.4.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28b75ec</div>
-                                        <div class="message">Merge pull request #203 from PBH-BTN/master
-
-4.3.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c83123</div>
-                                        <div class="message">Merge pull request #197 from PBH-BTN/master
-
-v4.3.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac79b3b</div>
-                                        <div class="message">Merge pull request #195 from PBH-BTN/master
-
-4.2.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c4f04f</div>
-                                        <div class="message">Merge pull request #191 from PBH-BTN/master
-
-4.2.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#683d496</div>
-                                        <div class="message">Merge pull request #186 from PBH-BTN/master
-
-merge</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Oct 2024, 15:38:54</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2024, 17:25:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2024, 18:27:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
