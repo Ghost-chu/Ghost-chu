@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="931" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="929" class="columns">
     <defs>
         <style/>
     </defs>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 70.2mb of code in 59716 edited files across 23135 commits</small>
+                <small>estimation from 70.3mb of code in 59760 edited files across 23140 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.69898914200326" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="382.69898914200326" y="0" width="1.980805744914255" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="384.67979488691753" y="0" width="0.7843808880291521" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="385.4641757749467" y="0" width="0.7140602671101534" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="386.1782360420568" y="0" width="0.6791050727058383" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="386.8573411147627" y="0" width="0.36399553292904163" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="387.2213366476917" y="0" width="0.2809406235840211" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="387.5022772712758" y="0" width="72.49772272872428" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.82246874574633" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="382.82246874574633" y="0" width="1.9776416322363066" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="384.80011037798266" y="0" width="0.7831279284602869" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="385.5832383064429" y="0" width="0.7129196367632437" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="386.2961579432062" y="0" width="0.6780202793202554" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="386.9741782225264" y="0" width="0.36341409131952773" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="387.3375923138459" y="0" width="0.28049185277895083" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="387.6180841666249" y="0" width="72.3819158333751" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -507,11 +507,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#63d0ad8</div>
-                                        <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
+                                        <div class="sha">#bd69e0b</div>
+                                        <div class="message">[Sparkle] 自动更新 go.torrent dev 20181121.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Oct 2024, 13:31:58</div>
+                                <div class="timestamp">19 Oct 2024, 15:32:51</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -528,53 +528,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a54e2b5</div>
-                                        <div class="message">[Sparkle] 自动更新 strange_ipv6_block.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 Oct 2024, 13:31:55</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#50d164a</div>
-                                        <div class="message">[Sparkle] 自动更新 123pan.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 Oct 2024, 13:31:45</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#109f421</div>
+                                        <div class="sha">#c305b2f</div>
                                         <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Oct 2024, 13:31:24</div>
+                                <div class="timestamp">19 Oct 2024, 15:32:36</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -591,11 +549,53 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#09911f4</div>
+                                        <div class="sha">#66b1c03</div>
+                                        <div class="message">[Sparkle] 自动更新 0xde-0xad-0xbe-0xef.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">19 Oct 2024, 14:32:20</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c6ba17c</div>
                                         <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Oct 2024, 12:30:50</div>
+                                <div class="timestamp">19 Oct 2024, 14:32:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/views-counter</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#46aece5</div>
+                                        <div class="message">Update views</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">19 Oct 2024, 14:19:52</div>
                             </section>
                         </div>
                     </section>
@@ -603,7 +603,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2024, 21:25:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2024, 22:21:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
