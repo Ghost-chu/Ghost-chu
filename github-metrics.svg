@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1013" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="973" class="columns">
     <defs>
         <style/>
     </defs>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 71.9mb of code in 61385 edited files across 24344 commits</small>
+                <small>estimation from 71.7mb of code in 61183 edited files across 24313 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.58219571241807" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="382.58219571241807" y="0" width="1.9541899615831382" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="384.5363856740012" y="0" width="1.7931283109404217" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="386.3295139849416" y="0" width="1.3029619410072377" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="387.6324759259489" y="0" width="0.6753425803517441" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="388.30781850630063" y="0" width="0.3591045807178983" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="388.6669230870185" y="0" width="0.277165667465573" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="388.94408875448414" y="0" width="71.05591124551592" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.96619118286327" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="382.96619118286327" y="0" width="1.806205528173128" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="384.7723967110364" y="0" width="1.637463503431309" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="386.4098602144677" y="0" width="1.3124643933663576" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="387.722324607834" y="0" width="0.6802678283531681" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="388.4025924361872" y="0" width="0.3617235168992388" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="388.7643159530864" y="0" width="0.2791870262388302" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="389.0435029793253" y="0" width="70.9564970206747" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -340,15 +340,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Vue
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -505,6 +505,68 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5293ff2</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">6 Nov 2024, 03:35:32</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9f14e1d</div>
+                                        <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">6 Nov 2024, 03:35:32</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#683 [Other] Transmission</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Anuskuss in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">For what it's worth, our community members have created a tool that can proxy the Transmission API and the System Firewall API and convert them to the qBittorrent API and provide it to PeerBanHelper or any other program that needs the qBittorrent API (although it's not yet complete) if you're interested. If you are interested, you can check it out.
+Disclaimer: This project is not affiliated with PeerBanHelper, PBH-BTN or me.
+https://github.com/azicen/transmission-proxy</div>
+                                </div>
+                                <div class="timestamp">6 Nov 2024, 03:35:17</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
@@ -541,96 +603,12 @@
                                 <div class="timestamp">6 Nov 2024, 03:28:55</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#683 [Other] Transmission</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Anuskuss in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            Also don't forget about the ability to just straight up block peers through
-                                            <code>iptables</code>
-                                            which means that you wouldn't have to use Transmission's blocklist at all (the rules apply immediately). Is this already trackable without running into the "repeated ban is also logged as a banning operation" situation?
-                                        </i>
-                                        This works for Linux systems, but there doesn't seem to be a better way for Windows.
-I've tried operating the firewall but it doesn't work well, especially since sometimes the number of IPs blocked reaches the upper limit of a single rule.
-Another important reason is that I don't think I should have PeerBanHelper running under root or Adninistrator privilege levels, whereas operating the firewall obviously requires elevated privileges.
-                                    </div>
-                                </div>
-                                <div class="timestamp">6 Nov 2024, 03:03:16</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#683 [Other] Transmission</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Anuskuss in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            <i>I would suggest that you could use BTN-Collected-Rules</i>
-                                            This seems like a fair compromise but then you're really forced to restart Transmission yourself. Would you consider undeprecating Transmission and removing the "stop-and-start" workaround once transmission/transmission#7167 is merged? Or maybe add a
-                                            <code>restart_torrent</code>
-                                            option in the config that defaults to
-                                            <code>true</code>
-                                            which a user then can manually disable? I already build my own Transmission with a few unmerged patches so it would be easy to apply 7167 myself. I know that Transmission has been stuck in limbo for a few months but I really think we can make this work.
-                                            <i>Of course the best option is always to switch to another supported downloader.</i>
-                                            I tested the big 3 (Transmission, qBittorrent, Deluge) many many years ago and for me the clear winner was Transmission for servers (low CPU/memory usage, better headless) and qBittorrent for desktops (more features, better speeds). Back then
-                                            <code>qbittorrent-nox</code>
-                                            was quite bad and you didn't have have a good remote GUI but maybe that has improved since then? Anyway I have hundreds of torrents in Transmission and I really don't wanna switch unless I have to. I'll consider qBittorrent once Transmission officially dies but until then I hope we can make this work. The dev of 7167 said that
-                                            <code>blocklist-update</code>
-                                            will trigger a blocklist refresh and 7167 will let you kick blocked peers so I think it's possible to make Transmission a first-class citizen again.
-P.S. Is there any way to change the loglevel? My systemd service/journal is flooded with Java nonsense and I would really like to only see warnings and errors there (the rest can go into
-                                            <code>/etc/peerbanhelper/logs/latest.log</code>
-                                            ). I'm doing
-                                            <code>java -jar PeerBanHelper.jar | grep --line-buffered -v '\(/\||-\)INFO\|^ '</code>
-                                            but there's got to be a better way.
-                                        </i>
-                                        Hi I want to know which one deploy method that you have to use to setup PBH? The .sh script or .deb package or something else?
-                                    </div>
-                                </div>
-                                <div class="timestamp">6 Nov 2024, 02:59:53</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#13 完善安装部署-Windows-安装器的说明</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by CreeperAWA in <span class="repo">PBH-BTN/pbh-docs</span></div>
-                                    <div class="comment">感谢贡献！</div>
-                                </div>
-                                <div class="timestamp">6 Nov 2024, 02:57:21</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2024, 18:26:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2024, 19:19:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
