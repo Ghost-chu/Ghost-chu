@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="920" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="950" class="columns">
     <defs>
         <style/>
     </defs>
@@ -505,38 +505,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2dbc00d</div>
-                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Jan 2025, 21:00:05</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/views-counter</span>
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#146bfa5</div>
-                                        <div class="message">Update views</div>
+                                        <div class="sha">#272d479</div>
+                                        <div class="message">修复配置文件重载后 BTN 模块可能提示已加载 0 个能力并停止工作的问题</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Jan 2025, 20:30:53</div>
+                                <div class="timestamp">9 Jan 2025, 22:04:04</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -553,11 +532,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#70d44a6</div>
-                                        <div class="message">从 multi-dial 移除重复部分</div>
+                                        <div class="sha">#34ec6a3</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Jan 2025, 20:27:38</div>
+                                <div class="timestamp">9 Jan 2025, 22:00:04</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -574,11 +553,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fd8a95e</div>
-                                        <div class="message">fix variable</div>
+                                        <div class="sha">#eb26641</div>
+                                        <div class="message">修复另外一些翻译文本问题</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Jan 2025, 20:05:35</div>
+                                <div class="timestamp">9 Jan 2025, 21:49:29</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -595,11 +574,36 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d9d5bbd</div>
-                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                        <div class="sha">#49f4dec</div>
+                                        <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Jan 2025, 20:00:04</div>
+                                <div class="timestamp">9 Jan 2025, 21:30:05</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#62ff6c9</div>
+                                        <div class="message">修复嵌套翻译文本问题</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47e7556</div>
+                                        <div class="message">修复多处 IPTries 的包含检查判断问题</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 Jan 2025, 21:29:19</div>
                             </section>
                         </div>
                     </section>
@@ -607,7 +611,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jan 2025, 13:23:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jan 2025, 14:33:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
