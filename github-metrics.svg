@@ -511,11 +511,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6b091f2</div>
+                                        <div class="sha">#13bb624</div>
                                         <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jan 2025, 22:00:04</div>
+                                <div class="timestamp">12 Jan 2025, 00:00:05</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -532,11 +532,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6d64167</div>
+                                        <div class="sha">#7965c36</div>
                                         <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jan 2025, 21:30:07</div>
+                                <div class="timestamp">11 Jan 2025, 23:30:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -553,11 +553,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b4638b</div>
+                                        <div class="sha">#39fabe6</div>
                                         <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jan 2025, 21:30:05</div>
+                                <div class="timestamp">11 Jan 2025, 23:30:05</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -574,11 +574,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6d73cac</div>
+                                        <div class="sha">#9c8e66e</div>
                                         <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jan 2025, 21:30:04</div>
+                                <div class="timestamp">11 Jan 2025, 23:30:04</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -595,11 +595,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3a0605f</div>
+                                        <div class="sha">#13debd9</div>
                                         <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Jan 2025, 20:30:04</div>
+                                <div class="timestamp">11 Jan 2025, 22:30:04</div>
                             </section>
                         </div>
                     </section>
@@ -607,7 +607,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2025, 06:21:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2025, 07:21:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
