@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="935" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="958" class="columns">
     <defs>
         <style/>
     </defs>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 65.8mb of code in 56437 edited files across 19922 commits</small>
+                <small>estimation from 65.6mb of code in 56280 edited files across 19826 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.2588715729104" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="405.2588715729104" y="0" width="2.262053064877533" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="407.5209246377879" y="0" width="1.6076567815741205" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="409.12858141936204" y="0" width="1.515439306810053" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="410.6440207261721" y="0" width="0.7211392184796611" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="411.36515994465174" y="0" width="0.38025366586715287" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="411.7454136105189" y="0" width="0.269445693177281" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="412.01485930369614" y="0" width="47.98514069630382" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="406.96019487625256" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="406.96019487625256" y="0" width="2.013455424133388" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="408.9736503003859" y="0" width="1.5232367446013682" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="410.49688704498726" y="0" width="1.259792631579566" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="411.7566796765669" y="0" width="0.7248497189066356" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="412.4815293954735" y="0" width="0.3822101970797158" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="412.8637395925532" y="0" width="0.2708320806236447" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="413.1345716731768" y="0" width="46.86542832682316" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -346,15 +346,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -505,6 +505,97 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6bda427</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jan 2025, 21:00:04</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/views-counter</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e425523</div>
+                                        <div class="message">Update views</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jan 2025, 20:30:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9ebe6c0</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jan 2025, 20:30:04</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#38 该项目的封禁列表是否对大的 IP 段设有定期 review 的机制？</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by MisakaMikoto-35c5 in <span class="repo">PBH-BTN/BTN-Collected-Rules</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>另外IPv6应该是普及分配了，如果光猫策略默认是开启的话，主要取决于用户额外购置的路由器是否有默认开启。</i>
+                                            虽然用户环境是一方面，但运营商是否分配，以及分配的地址能否使用也是一个问题。
+2024 年 10 月正好是广东电信打击 PCDN 的时间。根据网上的讨论，打击的方式主要是回收公网 IPv4，移入 PCDN 竞技场网段，NAT 类型修改为 NAT4，对 UDP 大包丢包 80%，IPv6 老化时间变为 30 分钟以及 IPv6 不能使用（也有说 IPv6 不能入站的）。
+基于上面所说的情况，某些 PCDN 用户可能认为刷下行流量可以避免被封锁，而 PCDN 用户并不集中于一个城市，所以导致那一个月突然间在这个大段下面出现大量恶意客户端。基于这个原因，希望在手工针对大段封禁时可以先观察一下小段封禁的效果。比如 IPv4 从 /24，IPv6 从 /48 开始封锁，观察 1~7 天看一下封锁是否有效果（判断基准可以使用从未观测到的 IPv4 /32 或 IPv6 /60 的增长率）。如果发现没有效果再将 IPv4 的 prefix length -4 变成 /20，IPv6 则 -8 变成 /40，然后继续观察，并且重复此步骤来逐步提升封禁等级。
+                                        </i>
+                                        我们是不需要封禁看效果的，Sparkle BTN 收集的数据可以直接看具体分布。
+                                        <br />
+                                        现在已经解封了一批。
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jan 2025, 20:25:25</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
@@ -518,93 +609,12 @@
                                 <div class="timestamp">10 Jan 2025, 20:10:01</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#373c22d</div>
-                                        <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jan 2025, 19:30:04</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e7758ad</div>
-                                        <div class="message">不单独处理 pause 字段了</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jan 2025, 19:10:31</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fe0bb8e</div>
-                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jan 2025, 19:00:06</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#888 [Feature Request] Banlist 页面增加封禁原因筛选器</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Gaojianli in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">现在似乎有任意搜索了？</div>
-                                </div>
-                                <div class="timestamp">10 Jan 2025, 18:37:17</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2025, 12:27:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jan 2025, 13:22:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
