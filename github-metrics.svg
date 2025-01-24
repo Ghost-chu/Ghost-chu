@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 64.8mb of code in 55578 edited files across 19641 commits</small>
+                <small>estimation from 65.7mb of code in 56484 edited files across 19987 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.4590682823852" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="412.4590682823852" y="0" width="2.0748887355129675" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="414.53395701789816" y="0" width="1.4429897912410061" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="415.9769468091392" y="0" width="1.2960731940059158" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="417.2730200031451" y="0" width="0.7144503143019751" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="417.98747031744705" y="0" width="0.2726809121427061" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="418.2601512295898" y="0" width="0.21122620932449476" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="418.47137743891426" y="0" width="41.52862256108575" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.396723259231" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="405.396723259231" y="0" width="2.268263942061293" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="407.66498720129226" y="0" width="1.6096980638164584" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="409.2746852651087" y="0" width="1.517363498205746" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="410.7920487633145" y="0" width="0.7220548670794168" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="411.5141036303939" y="0" width="0.3807364835087135" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.8948401139026" y="0" width="0.26978781514949624" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="412.1646279290521" y="0" width="47.8353720709479" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -346,15 +346,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -364,15 +364,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -448,7 +448,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYCBQcE/8QAKxAAAQMCBQIGAgMAAAAAAAAAAQIDBAURAAYSEyExQQciUXGBkRUjFENh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQDBf/EACERAAIBAwMFAAAAAAAAAAAAAAECAAQREgMxUSEiQaHh/9oADAMBAAIRAxEAPwAWX6HJzFOk1Os1NxqEyN6Q7qPkT6IvyTx7D06DEmM3TV1f8hSZDsZppoQ2G+SUNo6bgIsSSLnr198K4ry3NcFtTm0/oQpIV5FG/e3px9YZqDRXpTi3W4y5La3FsNNMuWXuFBXci1rceo574tIBW3mXkgHI7CaFWM9OCLRC4FNx5iAp53T+xNj5wDbkd+nOBfiYWbHXqtUJUtnccKWUNWsG08D5vfCvJDmY8oUtmO0XKpSnVh2J/Y40RfyI6ki4FvfCnW2VU+pvxFqfUlo2QVlSTp6jj5xkHGkOm8SUwqDje1oSn5BnUaBJnZiRIiyGSSyw2EObhFuSQTx1+saX4PrZpP8AJYqUxpl11LZ23XAATo13B7dTf4w+0htDtIZceQlxUmPvvaxfWpQJIP8Ana3pig8Rg1Rsny5MKOxutpajoLjYWAkW08HuNRt74DnIWMmTUZ2x5iHnMxcy5/iUuhIbMQOlch5pPBdc0aiD3ACAb++ObPS6dTMxvRahHQ/IQ23qfS+prdGgWJSOAbWHxi88DWUmoVxS7uODZWFrOpV/29zjK85V6bKzXVXH1IUoSFIHl6BPAH0MB37QF9zp09Iy6jI524v8n//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFFElEQVR4nJ2WbUxbZRTHryFxoONlM2y8bWUf3LoxlIo6EiMl2dgHJJQPSlwYL4r2A86ERGOiNrwkXbaA8SVpQtgwAjohMR2kgkwmCW6uY6PiVkJDCKwwSstseBNa+8rfnKfcy21XYNjkn3tze+/5Pec855zncAC4bZQB4Dx8Pr1n2LjobNeuOC61ukl0T8/oP/YOkKFWqz+bmpo6uJm9rUD7AXR7jKOOxfIPVq1RyU4rtxdhFZnoXCyrXKmpqYFKpfJVV1c3mc1myU6AZV7ztGW+8KzDyu31bwoSqZ57BhUVFRgfH0dtbS0aGhq+MplM0icBXnD131i1xR1yhzM8l5wG+4lcJrrnn3Mch76+Ptjtduj1ehTnnvbqdLrG7YAXHN9dcVgj4r1iiF2eD0dLO3xWG0J//0xM4saHH0MmkzF1dHQg/8gxXIvY43U0f+8A0ADgqXDAMvJMDLNFH4Tzpy5s9TMYDMw7l8vFJJPJcI2LCSw2It5LNgGUhwL3056JwziXchyev0bEtn0A/O01NSjkOEE5HCcA6Xr72xb2rbDouENu76R5FkCiGNi9niCCZ/QxiSCZmZnsPoPj8ENqFuzKM7D8UgCXrgqmzDMCnP957o3AFiMRoPOKsxTaXh6YQakvzkYKo3jVlATZ2dnQHD6Juao3YbmpZv8tPRzEgy9OwpVThS5pOYNOGAwM6tTqxMnmJwaxCKhmdSZKkPW98dN+EGxhYYEBD+yKxgv74pB+JIntVUa6FMdToiHbvQ+PXjuH5tR8fP5iFmZMJmaDbPF2iUEsDj7fLXFRO1p+pHfX5HI5845ARqORXfkwh1N2XArzsiLyOcFLsiV4GZXsJBbnHjYuiktg8vYglEolNBoNExlTKBRISEjYEkg6HXcYBRG7CLjGssxqC6phYnGOdu2KkJlJx4LSXKVSCZJIJMjLywt6JhYPzeE4fKJU+s1mM/OSbArRa9eucI6mVqEU7K/mCkDeO7paLJZA0mg0cI/o4Tb8Fqi7WTM8/R3sntpaUVERTuzZg7cVCmptMJlMzKYAbGp1bwokA7yoP/JAb7MKvvoKBnHf7YP//ZeEoqeFpaenC1nd1NQUBigOaXIaxsbGIJfL16gvilVSUsLalrOzEd4rFwOQ0TvwXHwHS0tLQZ1Go9GgtLQUOp0uqN+ykLqHjUvijV3vl37ykj5OS0tDZGQkWi414lb/rzAZ72F5eVmQ1TKD692dGP3zjgCUSqUYGhoKnzR0eNJ5FlIWQuKQxwTNSn4Wbzwfi2+qP2LPeBGMnpN4oCFcWUQmUlnoA4VfVrkSWvibAbdSKDCo8MsqVwKFT63tfkhr0/78GJD28etPz20JEwP/7eoJbm33N1pboHkXFG807xgJjnIRArCnpweFhYVQ16hYCMOJPw+1Wi2W9Hdhi03daN4FxUHNm5TgfTA9Kz6eRqMSUSx7mSXGxMQEent7WeaRt+FEESHPFv8Y9Mwlp/lCjicrgKTQA7g89AAe4+Kw3HGVQSn1BwYG0NbWFqS6ujphvDgvP4XZ3Qc2pgV2AP9OTfu9cCc+jQH1NBaEjhh/v56H5cttmDEMY3p6ms0tvG5qO/EW9zR7J2j+iYj3rl5uo1B+udmIwauBVmWLTX1siJqla+JRPHrlFJNN1CfFehgrgfP6gHMdtu3URqt5l+K+kzGRz8b5gmKHa9I8vx5GwbMnGYRpBundySC8fqpTNrIE2enk/b9G/e3s/QecQv/DnJQ8IQAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACGElEQVR4nNXV32vaQBwAcP+6vTlbVsFu61hh2PkDRfH3REG7miAIwjow2xB86ZoSMlDxQVBQp2+bD0uTPuRBEILUPUiylyRywxy7hbRxNnUPPb4c3/tyfHIcdxcb+A/N9vDRyWSC4zimazRNG+a0222PxxMOhwOBgKIo/0ZVVQ2FQrM/jaKoRqNhmCOKYi6XAwBEo9GNVgoASCaTKB8Oh/V63TBBkqR8Pg8AiMVim6KJRALl4/GYJMktoKlUCuUMw9RqtS2jPM8TBLFlVBCEcrl8X3Q0GlWrVTSUZVm/xRbRYDAoSZK+gmHYbDazjgqCkE6nDcXpdFosFq2jOI7zPH+zHolEZFm2giqK4vf7b/1Yr9ejKMoKStN0q9W6FYWLtYL6fD5VVc3QSqXCcdzdUJZlS6WSmQgfkUwmczc0Ho/P5/M1KAAgm82Korgpulgs9g5eD5j5gLnW+r/x9RLl11V6QBAfIJrxeH99+77u6Ts9fR8ofjk5ZwskVyA5mGj9FapgF6vc+cIL0YRjd/6xGouYo3bnIRLffr5EboHksIsrJJ6cs88j7/r9viRJyZ0VGtUdCaBHu92uK1iCCiQgh4YwIHp89sPtXd3jpGNHW6kJ2mw2D9980ls3Am0Cd3zGOJ++1NDdn2tWulwu9w9e2V1HdpdbiyMYj/dhAituOHzkeNbpdFZ3wevzPtkz/L5sJsfmXu3hoL8ByhMwy06HdVgAAAAASUVORK5CYII=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAUI/8QAKhAAAQMCBQMEAgMAAAAAAAAAAQIDBAURAAYSITETFJEHIkFhFlEkwfH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAP/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIDBBESMRMjMkFR/9oADAMBAAIRAxEAPwCpDzZHGWJdLfjrQ+60UOgGw23BHj/cDdPpK6g5Eb7eaW5TvSZdbjki5Nt1mwAuQL3+cSl5gp8vONQYqUSO2+27e8dxSm37c/ANzzzvgpl16a9TqNHyXVoUVgyv5aXGLtjQu4uDc8WP98YXmlwb1bKHhgu7t0Euq/CXR6u6wnWHYzmhQcTYpUg2I8jFYVD3LKToBUTp/WHZ6wZdfntozLTu1qTSLiQ2hr3Bs7gmx3A33FiL4RklrqyHHG2kspUokNtn2p+hqVfzhOjmD4wXbUsw45CG6RD6sZZn5bznJXIX1USD3TTgAWVr+Dbkb840Mn1N/MGtmPC1z47XUKb3W6bHWuwSPr5J4x0J+O0lrLs+a/CZmS5MZcl56UnqqWoA2G/A+hgNoeV6ZQMysP01txtxKEKuVXuSje+CPI3+JC9mYrJy9UaizT5Jn0d5FPaaU6qSHlNISm31z+/G2FlMjIfkuLZbkuIJ2UtzWfNsOb1RlvsZeEdtw9KQvQ4lXuuLjbfA/Q30y4ZTIjQ1mOrt0KMdF9KUi19ucaNqcdBTGnLva//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAUI/8QAKhAAAQMCBQMEAgMAAAAAAAAAAQIDBAURAAYSITETFJEHIkFhFlEkwfH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAP/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIDBBESMRMjIkFR/9oADAMBAAIRAxEAPwCpDzZHGWJdLfjrQ+60UOgGw23BHj/cDdPpK6g5Eb7eaW5TvSZdbjki5Nt1mwAuQL3+cSl5gp8vONQYqUSO2+27e8dxSm37c/ANzzzvgpl16a9TqNHyXVoUVgyv5aXGLtjQu4uDc8WP98YXmlwb1bKHhgu7t0Euq/CXR6u6wnWHYzmhQcTYpUg2I8jFYVD3LKToBUTp/WHZ6wZdfntozLTu1qTSLiQ2hr3Bs7gmx3A33FiL4RklrqyHHG2kspUokNtn2p+hqVfzhOjmD4wXbUsw45CG6RD6sZZn5bznJXIX1USD3TTgAWVr+Dbkb840Mn1N/MGtmPC1z47XUKb3W6bHWuwSPr5J4x0J+O0lrLs+a/CZmS5MZcl56UnqqWoA2G/A+hgNoeV6ZQMysP01txtxKEKuV3uSje+CB5G/xIXszFZOXqjUWafJM+jvIp7TSnVSQ8ppCU2+uf342wspkZD8lxbLclxBOyluaz5thzeqMt9jLwjtuHpSF6HEq91xcbb4H6G+mXDKZEaGsx1duhRjovpSkWvtzjRtTjoKY05d7X//2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -511,6 +511,69 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#116a583</div>
+                                        <div class="message">[Sparkle] 自动更新 tracker-high-risk-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Jan 2025, 01:30:07</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#668dc2d</div>
+                                        <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Jan 2025, 01:30:05</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fd198ba</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Jan 2025, 01:30:03</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#2db2098</div>
                                         <div class="message">[Sparkle] 自动更新 tracker-high-risk-ips.txt</div>
                                     </div>
@@ -539,75 +602,12 @@
                                 <div class="timestamp">24 Jan 2025, 00:00:05</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#efd1284</div>
-                                        <div class="message">[Sparkle] 自动更新 tracker-high-risk-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Jan 2025, 23:30:08</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8e133b9</div>
-                                        <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Jan 2025, 23:30:06</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e975cab</div>
-                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Jan 2025, 23:00:05</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2025, 13:23:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2025, 14:32:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
