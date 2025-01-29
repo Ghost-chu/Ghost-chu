@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="914" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="923" class="columns">
     <defs>
         <style/>
     </defs>
@@ -505,17 +505,59 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PBH-Adapter-BiglyBT</span>
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8ab14f8</div>
-                                        <div class="message">up to 64MB</div>
+                                        <div class="sha">#b032090</div>
+                                        <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Jan 2025, 01:05:42</div>
+                                <div class="timestamp">29 Jan 2025, 01:30:07</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#05d808a</div>
+                                        <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">29 Jan 2025, 01:30:05</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ed4b6b1</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">29 Jan 2025, 01:30:04</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -532,11 +574,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#22e571f</div>
-                                        <div class="message">向下载器提交封禁数据时按 IP 去重 #938</div>
+                                        <div class="sha">#76ff2d8</div>
+                                        <div class="message">停止对 SPK 打包使用缓存</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Jan 2025, 01:00:28</div>
+                                <div class="timestamp">29 Jan 2025, 01:15:59</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -546,72 +588,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/PBH-Adapter-BiglyBT</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4ffd018</div>
-                                        <div class="message">Merge pull request #936 from PBH-BTN/dependabot/maven/org.jetbrains-annotations-26.0.2
-
-Bump org.jetbrains:annotations from 26.0.1 to 26.0.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#866abac</div>
-                                        <div class="message">Bump org.jetbrains:annotations from 26.0.1 to 26.0.2
-
-Bumps [org.jetbrains:annotations](https://github.com/JetBrains/java-annotations) from 26.0.1 to 26.0.2.
-- [Release notes](https://github.com/JetBrains/java-annotations/releases)
-- [Changelog](https://github.com/JetBrains/java-annotations/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/JetBrains/java-annotations/compare/26.0.1...26.0.2)
-
----
-updated-dependencies:
-- dependency-name: org.jetbrains:annotations
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#8ab14f8</div>
+                                        <div class="message">up to 64MB</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Jan 2025, 00:41:11</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/maven/org.jetbrains-annotations-26.0.2</span>
-                                        in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">29 Jan 2025, 00:41:11</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/maven/dnsjava-dnsjava-3.6.3</span>
-                                        in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">29 Jan 2025, 00:40:56</div>
+                                <div class="timestamp">29 Jan 2025, 01:05:42</div>
                             </section>
                         </div>
                     </section>
@@ -619,7 +607,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2025, 11:25:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2025, 12:27:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
