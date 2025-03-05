@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 61.3mb of code in 50120 edited files across 17776 commits</small>
+                <small>estimation from 65.8mb of code in 56890 edited files across 20120 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.43731623873225" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="415.43731623873225" y="0" width="1.6196490472299974" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="417.05696528596224" y="0" width="0.5630367186547255" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="417.62000200461694" y="0" width="0.25948522070131275" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="417.87948722531826" y="0" width="0.23717107369410861" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="418.1166582990124" y="0" width="0.2133165844494668" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="418.32997488346183" y="0" width="0.12100012738141594" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="418.4509750108432" y="0" width="41.54902498915674" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="406.0199518836018" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="406.0199518836018" y="0" width="2.2804408905033378" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="408.3003927741051" y="0" width="1.6224971531280594" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="409.9228899272332" y="0" width="1.5171292403585488" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="411.44001916759174" y="0" width="0.7219433927893603" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="412.1619625603811" y="0" width="0.3806777035861164" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="412.5426402639672" y="0" width="0.26974616401392343" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="412.81238642798115" y="0" width="47.187613572018904" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -337,6 +337,18 @@
                             <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Java
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Vue
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -352,27 +364,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        C#
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -503,11 +503,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#62448b7</div>
+                                        <div class="sha">#976881b</div>
                                         <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Mar 2025, 06:30:03</div>
+                                <div class="timestamp">5 Mar 2025, 08:30:04</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -524,11 +524,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b987952</div>
+                                        <div class="sha">#7f9a821</div>
                                         <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Mar 2025, 06:30:03</div>
+                                <div class="timestamp">5 Mar 2025, 08:30:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -545,11 +545,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#753abfe</div>
+                                        <div class="sha">#b2a7719</div>
                                         <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Mar 2025, 05:30:04</div>
+                                <div class="timestamp">5 Mar 2025, 07:30:04</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -566,11 +566,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#19c399e</div>
+                                        <div class="sha">#9c7bea9</div>
                                         <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Mar 2025, 05:30:03</div>
+                                <div class="timestamp">5 Mar 2025, 07:30:03</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -587,11 +587,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#37b8aae</div>
+                                        <div class="sha">#f89b4cf</div>
                                         <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Mar 2025, 05:30:03</div>
+                                <div class="timestamp">5 Mar 2025, 07:30:03</div>
                             </section>
                         </div>
                     </section>
@@ -599,7 +599,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2025, 09:54:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Mar 2025, 10:58:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
