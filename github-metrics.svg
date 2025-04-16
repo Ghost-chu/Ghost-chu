@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 61.4mb of code in 50196 edited files across 17842 commits</small>
+                <small>estimation from 62.2mb of code in 51282 edited files across 18264 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.0985417964294" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="415.0985417964294" y="0" width="1.617486639080257" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="416.7160284355097" y="0" width="0.5622850032191475" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="417.27831343872884" y="0" width="0.25913877962696935" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="417.5374522183558" y="0" width="0.23685442444005203" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="417.77430664279586" y="0" width="0.21303178354060498" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="417.98733842633646" y="0" width="0.12083857901264021" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="418.1081770053491" y="0" width="41.89182299465094" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.87734781684435" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="409.87734781684435" y="0" width="1.5720600352425074" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="411.4494078520869" y="0" width="1.5276924239150103" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="412.9771002760019" y="0" width="1.0753892751041376" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="414.052489551106" y="0" width="0.5542920841392904" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="414.60678163524534" y="0" width="0.2518609484556368" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="414.858642583701" y="0" width="0.23020244237955442" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="415.08884502608055" y="0" width="44.91115497391949" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -343,6 +343,18 @@
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Vue
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -361,18 +373,6 @@
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C#
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -503,6 +503,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#14a3d2b</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Apr 2025, 02:00:02</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#ead365c</div>
                                         <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
                                     </div>
@@ -573,33 +594,12 @@
                                 <div class="timestamp">16 Apr 2025, 11:30:03</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5e4a098</div>
-                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">16 Apr 2025, 11:30:02</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2025, 03:19:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2025, 04:29:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
