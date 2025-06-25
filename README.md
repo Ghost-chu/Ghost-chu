@@ -16,7 +16,7 @@
 
 ### [QuickShop-Hikari](https://github.com/QuickShop-Community/QuickShop-Hikari)
 
-*目前我不再继续维护此项目，正在进行交接工作*  
+*目前我不再继续维护此项目，已交接给 @creatorfromhell*  
 经典的 Minecraft 箱子商店服务器插件。简单、易用、符合直觉。因使用简单，功能丰富，配置容易而广受欢迎。
 
 ### [HikariSPK](https://github.com/Ghost-chu/Hikari-SPK)
