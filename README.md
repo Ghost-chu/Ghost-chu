@@ -30,3 +30,7 @@
 ## 与我联系
 
 E-mail: `ghostchu {at} qq.com`  
+
+## 支持我的工作
+
+[[面包多]](https://mbd.pub/o/ghostchu) [[爱发电]](https://afdian.com/a/Ghost_chu)
