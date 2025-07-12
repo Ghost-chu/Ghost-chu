@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="931" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1013" class="columns">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2278 issue comments
+                            2279 issue comments
                         </div>
                     </section>
                     <section>
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 98.8mb of code in 41990 edited files across 26257 commits</small>
+                <small>estimation from 98.8mb of code in 42001 edited files across 26266 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.32508936468514" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="342.32508936468514" y="0" width="3.896222011873552" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="346.2213113765587" y="0" width="3.772287928384061" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="349.99359930494273" y="0" width="2.994365489566572" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="352.98796479450925" y="0" width="0.8380894855401255" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="353.8260542800494" y="0" width="0.556021413141067" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="354.3820756931905" y="0" width="0.443506970201679" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="354.82558266339214" y="0" width="105.17441733660779" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.3388036071904" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="342.3388036071904" y="0" width="3.895767932637489" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="346.2345715398279" y="0" width="3.771848292856231" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="350.0064198326842" y="0" width="2.994016515819734" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="353.0004363485039" y="0" width="0.8379918116826843" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="353.8384281601866" y="0" width="0.5559566124757701" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="354.39438477266236" y="0" width="0.44345528236007137" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="354.83784005502247" y="0" width="105.16215994497763" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -490,6 +490,63 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by sunboyonly in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">如果像你所说它只是在使用默认值，则可以累积到下次普通更新，因为当前版本没有使用用户 vmoptions 的功能。</div>
+                                </div>
+                                <div class="timestamp">12 Jul 2025, 00:47:59</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1212 [BUG] linux安装包仍使用windows的环境变量引用方式</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by sunboyonly in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">我的意思是我需要知道这个问题是否现在导致 PeerBanHelper 的服务进程完全无法在 Linux 上使用。根据故障情况确认我应该分到紧急更新还是累积更新中。</div>
+                                </div>
+                                <div class="timestamp">12 Jul 2025, 00:43:58</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9d5246f</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">12 Jul 2025, 00:30:03</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1212 [BUG] linux安装包仍使用windows的环境变量引用方式</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by sunboyonly in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
                                     <div class="comment">直接导致无法启动了么</div>
                                 </div>
                                 <div class="timestamp">12 Jul 2025, 00:01:51</div>
@@ -516,75 +573,12 @@
                                 <div class="timestamp">11 Jul 2025, 23:30:03</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d6b9dc7</div>
-                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">11 Jul 2025, 23:30:02</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#70f71a5</div>
-                                        <div class="message">fix build</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">11 Jul 2025, 23:27:38</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c54a234</div>
-                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">11 Jul 2025, 22:30:04</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2025, 12:39:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jul 2025, 13:28:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
