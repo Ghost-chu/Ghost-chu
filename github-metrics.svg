@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 99.5mb of code in 42907 edited files across 26959 commits</small>
+                <small>estimation from 99.5mb of code in 42911 edited files across 26963 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.50884294383343" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="343.50884294383343" y="0" width="3.872297978819986" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="347.3811409226534" y="0" width="3.727444346415236" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="351.10858526906867" y="0" width="2.969382834963725" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="354.0779681040324" y="0" width="0.828126583647287" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="354.9060946876796" y="0" width="0.5494116335351676" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="355.45550632121484" y="0" width="0.43823472122451673" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="355.89374104243933" y="0" width="104.10625895756068" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.5105559720979" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="343.5105559720979" y="0" width="3.872241035820589" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="347.38279700791844" y="0" width="3.7273895335205838" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="351.1101865414391" y="0" width="2.9693391695314912" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="354.0795257109706" y="0" width="0.8281144058624648" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="354.907640116833" y="0" width="0.5494035543154152" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="355.4570436711485" y="0" width="0.43822827688588284" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="355.89527194803435" y="0" width="104.10472805196572" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -491,11 +491,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d9198d</div>
-                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                        <div class="sha">#32e0020</div>
+                                        <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">27 Jul 2025, 22:00:02</div>
+                                <div class="timestamp">28 Jul 2025, 00:30:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -512,11 +512,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9cffc8f</div>
-                                        <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
+                                        <div class="sha">#1512da7</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">27 Jul 2025, 21:30:03</div>
+                                <div class="timestamp">28 Jul 2025, 00:00:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -527,17 +527,40 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e2d9c4f</div>
-                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                        <div class="sha">#65b9e21</div>
+                                        <div class="message">使用默认值</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">27 Jul 2025, 21:30:02</div>
+                                <div class="timestamp">27 Jul 2025, 23:52:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/PeerBanHelper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#943a881</div>
+                                        <div class="message">修复 IPDB 下载错误信息被吞的问题
+
+(cherry picked from commit 0abd61029d3ce774b4fe3a638726074e7c3146f6)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">27 Jul 2025, 23:37:49</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -554,32 +577,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3e89c0e</div>
-                                        <div class="message">添加下载器更改监听端口的功能</div>
+                                        <div class="sha">#0abd610</div>
+                                        <div class="message">修复 IPDB 下载错误信息被吞的问题</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">27 Jul 2025, 20:52:13</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/PBH-Adapter-BiglyBT</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#af9a49b</div>
-                                        <div class="message">添加 TCP Incoming Port 修改端点</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">27 Jul 2025, 20:26:21</div>
+                                <div class="timestamp">27 Jul 2025, 23:35:42</div>
                             </section>
                         </div>
                     </section>
@@ -587,7 +589,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2025, 23:28:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jul 2025, 00:34:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
