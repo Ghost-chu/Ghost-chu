@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1022" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="959" class="columns">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2361 issue comments
+                            2363 issue comments
                         </div>
                     </section>
                     <section>
@@ -316,7 +316,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 99.6mb of code in 43087 edited files across 27139 commits</small>
+                <small>estimation from 99.6mb of code in 43090 edited files across 27142 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -490,13 +490,9 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by Copilot in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">
-                                        @copilot 显然前端代码也需要对应的处理，并更新后端代码去掉 trick/workaround。
-                                        <br />
-                                        如果要添加新文本，请使用 i18n
-                                    </div>
+                                    <div class="comment">@copilot continue</div>
                                 </div>
-                                <div class="timestamp">1 Aug 2025, 01:24:39</div>
+                                <div class="timestamp">1 Aug 2025, 02:26:24</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -507,56 +503,14 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#155 [TODO] 规则订阅支持更多内容</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Gaojianli in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">
-                                        需要重做整个规则订阅模块，现在的代码非常复杂且难以维护。
-                                        <br />
-                                        除了目前已经有的 IP 订阅功能，我们还应该为规则订阅模块引入与 BTN 类似的 PeerID、客户端名称、例外列表等等订阅，甚至是脚本引擎订阅。  
-为了不影响现有模块的工作，我们最好创建成另一个单独的模块（前后端都展现为完全不同全新模块）以避免任何意外更改。根据规则类型的不同，用户应该可以在添加时在下拉框中选择不同的类型。需要注意 IP 规则部分需要控制内存使用量因为内存有限（参见旧规则订阅模块使用的 IPMatcher（即DualIPv4v6AssociativeTries））
-                                    </div>
-                                </div>
-                                <div class="timestamp">1 Aug 2025, 01:20:57</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1130 [WebUI] 统计-图表中数据展示不正确</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Asendaushoe in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">有一点点细微的差别，但大体比例似乎是正确的。</div>
-                                </div>
-                                <div class="timestamp">1 Aug 2025, 01:16:35</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1285 [Feature] Add comprehensive filtering functionality to Banlist page with 10 filter options</span>
+                                        <span class="issue">#1285 [Feature] Add comprehensive filtering functionality with full backend support for Banlist and Ban Log pages</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by Copilot in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">@copilot 显然只有前端代码是不行的，你还要编写后端代码。
-以及，封禁日志 /log 也需要一个前后端联动的筛选器。</div>
+                                    <div class="comment">@copilot continue</div>
                                 </div>
-                                <div class="timestamp">1 Aug 2025, 01:13:16</div>
+                                <div class="timestamp">1 Aug 2025, 02:25:43</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -567,14 +521,50 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#1282 Add PushDeer push notification provider with frontend integration</span>
+                                        <span class="issue">#1290 [WebUI] 数据透视-&gt;种子 分页搜索未重置页码</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by lzhzh1 in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">其它功能可能也有这个问题，需要在整个项目范围内检查</div>
+                                </div>
+                                <div class="timestamp">1 Aug 2025, 02:09:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1289 [WIP] [Other] 改进 PBH 的 GUI 界面，显示更多有用的内容</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by Copilot in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">@copilot Endpoint 和 Push Key 没有使用 i18n 文本</div>
+                                    <div class="comment">@copilot continue</div>
                                 </div>
-                                <div class="timestamp">1 Aug 2025, 01:02:00</div>
+                                <div class="timestamp">1 Aug 2025, 02:05:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1288 [WIP] [TODO] 规则订阅支持更多内容</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Copilot in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">@copilot continue</div>
+                                </div>
+                                <div class="timestamp">1 Aug 2025, 02:04:23</div>
                             </section>
                         </div>
                     </section>
@@ -582,7 +572,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2025, 10:39:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Aug 2025, 12:20:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
