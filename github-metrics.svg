@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            50663 Commits
+                            50556 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 100mb of code in 43683 edited files across 27402 commits</small>
+                <small>estimation from 99.9mb of code in 43239 edited files across 27288 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.2918127710044" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="334.2918127710044" y="0" width="5.129684318127384" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="339.4214970891318" y="0" width="3.5468508864512582" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="342.968347975583" y="0" width="3.524627405666463" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="346.4929753812495" y="0" width="0.7880041214104353" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="347.28097950265993" y="0" width="0.5227928195104863" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="347.8037723221704" y="0" width="0.41700239225402586" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="348.22077471442446" y="0" width="111.77922528557559" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="338.63928178252286" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="338.63928178252286" y="0" width="3.889708206967994" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="342.5289899894909" y="0" width="3.674181733663726" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="346.20317172315464" y="0" width="2.928418174615968" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="349.1315898977706" y="0" width="0.8162932250683841" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="349.94788312283896" y="0" width="0.5415609196522626" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="350.48944404249124" y="0" width="0.4319726488549332" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="350.92141669134617" y="0" width="109.07858330865382" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -590,7 +590,7 @@ fix(deps): update jna monorepo to v5.17.0</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2025, 02:45:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Aug 2025, 03:27:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
