@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="974" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1001" class="columns">
     <defs>
         <style/>
     </defs>
@@ -316,7 +316,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 105mb of code in 44464 edited files across 28257 commits</small>
+                <small>estimation from 105mb of code in 44467 edited files across 28260 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -481,6 +481,33 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1340 [BUG] 进度检测存在误封问题</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by yingziwu in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
+                                    <div class="comment">
+                                        <i>不会误判的方法是：30秒之前获取一下这个 Peer 的 piece 列表以及发送给该 Peer 的 piece 列表，30秒之后再获取一下该 Peer 的 piece 列表，看一看30秒之前发送给该 Peer 的 piece 是否确认。
+但BT客户端并没有提供相应的API。</i>
+                                        这没有任何意义，Piece 最后对于 UI 来说就是转换成百分比显示
+                                        <br />
+                                        客户端有义务及时更新自己在别人客户端上的进度数据，生产实践中还更新在网络稳定时几乎是实时的，30秒足够宽容。只要在30秒内将进度更新到宽容区间内，计时器就会重置。
+偏差本质上也是计算的 Piece，只要对方及时更新就没问题。
+误封永远无法根除，这是 BT 协议的限制，就像游戏反作弊永远无法抓出所有作弊者，重要的是平衡误封和正确封禁之间的影响。
+默认值是基于过去一年的现实环境情况设计的，它已经足够好了。如果你觉得不妥可以自行更改他们。这正是配置 UI 的目的。
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Sept 2025, 20:07:59</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -559,30 +586,12 @@
                                 <div class="timestamp">3 Sept 2025, 18:30:02</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1341 [BUG] 无法连接到下载器，登录时出现错误：Not Found</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by d13-proto in <span class="repo">PBH-BTN/PeerBanHelper</span></div>
-                                    <div class="comment">7474末尾的斜线去掉看看</div>
-                                </div>
-                                <div class="timestamp">3 Sept 2025, 17:48:22</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2025, 05:22:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Sept 2025, 06:23:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
