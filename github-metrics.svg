@@ -316,7 +316,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 106mb of code in 46197 edited files across 29301 commits</small>
+                <small>estimation from 106mb of code in 46201 edited files across 29305 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -491,11 +491,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a54bb78</div>
+                                        <div class="sha">#5097176</div>
                                         <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">20 Sept 2025, 06:30:03</div>
+                                <div class="timestamp">20 Sept 2025, 08:30:03</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -512,11 +512,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c9b1b8e</div>
+                                        <div class="sha">#2e4cf61</div>
                                         <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">20 Sept 2025, 06:30:02</div>
+                                <div class="timestamp">20 Sept 2025, 08:30:03</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -533,11 +533,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a120bf8</div>
+                                        <div class="sha">#e3ed6ed</div>
                                         <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">20 Sept 2025, 05:30:04</div>
+                                <div class="timestamp">20 Sept 2025, 07:30:04</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -554,11 +554,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ad916e0</div>
+                                        <div class="sha">#dfa3817</div>
                                         <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">20 Sept 2025, 05:30:03</div>
+                                <div class="timestamp">20 Sept 2025, 07:30:03</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -575,11 +575,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e54d12e</div>
+                                        <div class="sha">#39b73b6</div>
                                         <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">20 Sept 2025, 05:30:02</div>
+                                <div class="timestamp">20 Sept 2025, 07:30:02</div>
                             </section>
                         </div>
                     </section>
@@ -587,7 +587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2025, 22:22:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2025, 23:23:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
