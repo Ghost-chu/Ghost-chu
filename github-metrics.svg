@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            52791 Commits
+                            52800 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 106mb of code in 46259 edited files across 29363 commits</small>
+                <small>estimation from 106mb of code in 46265 edited files across 29365 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.81802108022686" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="268.81802108022686" y="0" width="30.961368432120906" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="299.7793895123478" y="0" width="6.074152583094739" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="305.8535420954425" y="0" width="3.7476817365879915" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="309.60122383203054" y="0" width="2.347881217477888" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="311.94910504950843" y="0" width="0.6642849309203671" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="312.6133899804288" y="0" width="0.5751761804817768" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="313.1885661609105" y="0" width="146.81143383908943" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.78968681741094" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="268.78968681741094" y="0" width="30.95804760696418" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="299.74773442437515" y="0" width="6.073501087384917" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="305.82123551176005" y="0" width="3.770096271802281" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="309.59133178356234" y="0" width="2.373652768736976" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="311.9649845522993" y="0" width="0.6642136816758554" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="312.62919823397516" y="0" width="0.5751144887792965" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="313.2043127227545" y="0" width="146.79568727724555" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -491,11 +491,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1b4f961</div>
+                                        <div class="sha">#a219a9b</div>
                                         <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Sept 2025, 22:30:03</div>
+                                <div class="timestamp">22 Sept 2025, 00:30:03</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -512,11 +512,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3576b78</div>
+                                        <div class="sha">#3ac4569</div>
                                         <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Sept 2025, 22:30:02</div>
+                                <div class="timestamp">22 Sept 2025, 00:30:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -533,11 +533,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fb30354</div>
+                                        <div class="sha">#f279c1e</div>
                                         <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Sept 2025, 21:30:05</div>
+                                <div class="timestamp">21 Sept 2025, 23:30:05</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -554,11 +554,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4881887</div>
+                                        <div class="sha">#552582f</div>
                                         <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Sept 2025, 21:30:03</div>
+                                <div class="timestamp">21 Sept 2025, 23:30:03</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -575,11 +575,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ed72fb0</div>
+                                        <div class="sha">#cccd252</div>
                                         <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Sept 2025, 21:30:02</div>
+                                <div class="timestamp">21 Sept 2025, 23:30:02</div>
                             </section>
                         </div>
                     </section>
@@ -587,7 +587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2025, 00:28:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2025, 01:20:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
