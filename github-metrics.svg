@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2447 issue comments
+                            2450 issue comments
                         </div>
                     </section>
                     <section>
@@ -316,7 +316,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 106mb of code in 46298 edited files across 29398 commits</small>
+                <small>estimation from 106mb of code in 46300 edited files across 29400 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -420,7 +420,7 @@
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAAoEAACAgEDAwQBBQAAAAAAAAABAwIEEQAFEiExQRNRcZEGFBVhscH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAED/8QAHhEAAgMBAAIDAAAAAAAAAAAAAQIAAxEEEyEiMUH/2gAMAwEAAhEDEQA/ADqtuhnLpzYfrWxW2pZ2rjA8yBxoxRo8nCPotAAyTFZmT9DOiS0Lu17FGgqybNcxLAyuxfU9usgPGdB8zONWNHElZyw+4qt21S4HKI48mPYa5qgK8TCDJRGc49tODaZ26E026dpxdhZ9JRMBn3PYfJ6aVt025zXQlFZ4iHEdvBI/zUPTZUB+SrOLntP3KFPc6deqLN58a6ARCTScCBJx19uvTRQuNSwszg5y2A5ZAchHHbOOupdubp2Ktig48q9is8zHkGPYj+c9fnWv96vR/DGXlvnCx+hLsxJA5enyz96Nxj45EOumP2+W66aLLTJ8MgiMZAgk/HfUb3rcbFZtdEbCvUgslvOXXlJk5/1IaA/gN25vFPcZbrds3JyYYGbmGcsce2TpIt3bFqy1zWy5yl14kgaTilyrDcmXTxPYilWzJ//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAuEAABAwIEBQMCBwAAAAAAAAABAgMEBREABhIhEyJBUWEHMZEjcTJCgaGxwdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwAF/8QAHhEAAgIBBQEAAAAAAAAAAAAAAQIAAwQREiFBcZH/2gAMAwEAAhEDEQA/AOh8wZiapjD5aYdfkNuJbDSRYqJ7E7e1/jEvzrIVmVwNyng3EQ4SltLnUDrceSMN/qXUFRlI0L0hoXP8n+vnCbl6m1CrSJDq4uhpm/DUpQIdv2FtrEd+uIsY/GrAG+CcoOpyW9JcZkK4CuYgt3Lnvc38Dp7b4t+Xa5Fq1HjzWJDKkuA3JVp3BIO36YiteoNTRTHYzjAkVFy/CaYHtvaw33+nc4bcpRnqZlunw3WCHW2/qC45VEkkfJOGVojVa96wWTubJJJ6mX1b1zWocKKpBfqDrjBN/wACCRcn7W/fGHLteNBnOUmpSHI3KgMPvJHDdO9zfpe/e23ydp6ROr0WVIF3mlWCh+YBJIB8X7WwzV3K9NrTsmLKQ62nQHdbLhQdW+9vbp2xnpRFIbkmRqyXt0ZOFHRk8eVIb9QzwXnHEqaEkoKr7hsg27D/AHxhrQ3NLaFMwCtCkgha16CrzbATK8FmnZwrFNa1OttMMlLrx1uAb8urt4wwuSXiQnWbI5R9gcc7Ny3pRWXyKvQVt7z9n//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABAADBQYHAv/EACwQAAECBAQEBQUAAAAAAAAAAAECAwAEESEFBhITIjFRYRQyQVLRVIGRocH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIE/8QAHBEBAQEBAAIDAAAAAAAAAAAAAQIAEQMhIjFB/9oADAMBAAIRAxEAPwADMc4MyTIfDw8OTQN1qW0iw+5gI4PJPJoWSSBQK1GtoawRtBYLrJGg8A9BzPzE1LsKVL6tDgoqxKaC8FAQc3dIHGv3UvGsBLCC9KlZbF1JXzT37iGpNqUEunda3Fm9enaLzONJSspHu0EEU9B8wssZWw1Mg4vEWwFuulxFbDSQOXauqK0B7xeSSgTQ+WVFnDJc0FuOnXjP8i1rxDcGpt0No6OJv+og5VpLJaS2KChH4ApBbraS43bzG/eLmZ7zc5gnGpiRWG3BubS6uAUoTy5xjys44qEoR4xxIQkJA1GwjTM0ceDTtfp1rt1tGIvkl9wn3GNTBf3g83wAN//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcEBQL/xAAqEAACAQMCBQQBBQAAAAAAAAABAwIEBREAIQYSEzFBIlFhoQcygbHB0f/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHhEAAgEEAwEAAAAAAAAAAAAAAQIAAxESMQQhMkH/2gAMAwEAAhEDEQA/AKzG4uhSdAvpmscwzRNLzyt5z3n74/zSTh26JasJgYzmiQU3bzyA5/nUus1nNzr7Rb66pqVCD+vHprzmcMHvn0jbHY6RP4XunD94FfQVwqKYxkGIKdycEQ3B+R3B0zkkU3xvLQZi8ofWTUdSMsmAn05RzjfxrE+toqZhUysQqce8NtvvRqy8Qpq6usp3icOTAa2OQMDGCT4IyPvXq43ShdVzkqa2x7cx9Wf31FW+oLdbk2heDS31QcZ1KENDAU7Tzg9j4PznSh35Mfc3NpbXZqxbQeQTfggk+QI5z9aN8L3V6KaYC0SK54iZrBI7adW/iJ4s0q1dJRKqOQ+payP71q5lBXNzCpuUnHtVtu9rqzT08HSZXRWWBjMSYzB58YzyDO++2ANvGu6zg+U5mUayLJH9RimcgJeRmO2tfC9c+o4NrLu6QnXMmyJYR2jHOAPjbRK98YXW3Op00s1xgUxkRynvuPf40pSU8/OoLHPc/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcI/8QALBAAAgEDAwMCBAcAAAAAAAAAAQMCBAURABIhBjFBEyIHIyRxMlFhgZGhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAMFAgT/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIRAyEx/9oADAMBAAIRAxEAPwDO7CuVVWejUKmIFbDkS8iBI1LKw3NpDYRgITjxmQ0X+HNsbXX17kJ9U0yc7cZyScD/AHRe4xRGqzOpnFSJEVYlEgrP6DHOobTHyVzrp7EirXClWqB3h+Zhme3cAY/vVUSGmfqy2ylb6euWgr2+wyKyCweDg+caVl+6OeNGkfnfSaD0fUP6VupdOnYwOZsbGPfaR4+xGjnUt4tL7tZmIFT9XIrcVq9icHvPnjvn7aO3WnhbrvE0+TJB9spnJ8d9K3WyVrvs5KiIetESkI8DJx201Ll90nAmYkv3man2590q4lduoETCo85qGkYwB+Q4GsVVWI2D5o/jXQHUMQqo6bo1japlREyI/Edo4506VNot7GmTqKlbPzJiYEn98ac5Fj2ZOzX5P//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABgUDAQQH/8QALBAAAQMDAwQBAQkAAAAAAAAAAQIDBAURIQASMQYTQVFhsQcWIiMycpGh0f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBQAG/8QAIhEAAQQBAwUBAAAAAAAAAAAAAQACAxEEBRIhEzFRkfDB/9oADAMBAAIRAxEAPwCWzT43UlScp6Go7TjiiVPdj9I5Nj71kz9n7Djr7secUAbm3BzcX8AiwxpF1SaZHqAEd0RnFw3QNuEAkckjF8f1rpMKlNRkP1CsNwkSG3Gw3dGxJsbL34vj2cnjWxMWKBuwnunau3IIEkPYA395QjqChSOm2m3e0HIanvyQlV93+G98fXRp5EkLJShqxzbuo/D8a9PmyDSKMxGWsSUOSgNrnLqFg3PrFkaGSZxhTJMaOUltp1SRsSPfn50+TTzdg+1Jg1LqsDSDx4VOoqZkQZ7UtTjpaBAUSVi/F/OB4PGdc/elysiJDhNUeGhhJcccqDYIKyu+CQfAAsPnUWo1aQ30+2poNIW6DvUlFieE/QnWFPYaajOq2Bza80mzmQQU5vo8kBp3j61cx2OeOg48V+WrnVFclKpbC5TUJUhlxxHfYTdvcDgo8Zvn9h0KRNJK1PLWta1FRNudJOr2hFbTEZUtMdLSF7L4JKUqJ/k+PQ0NKRo5XOoLnYiwAlgrkr//2Q==" width="28" height="28" alt="" />
@@ -491,6 +491,69 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#aa393c4</div>
+                                        <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Sept 2025, 13:30:04</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#27fa5a8</div>
+                                        <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Sept 2025, 13:30:03</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c3ed06a</div>
+                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Sept 2025, 13:00:02</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#09950ba</div>
                                         <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
                                     </div>
@@ -519,75 +582,12 @@
                                 <div class="timestamp">22 Sept 2025, 12:00:02</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f8e5593</div>
-                                        <div class="message">[Sparkle] 自动更新 overdownload-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">22 Sept 2025, 11:30:03</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8b32303</div>
-                                        <div class="message">[Sparkle] 自动更新 high-risk-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">22 Sept 2025, 11:30:02</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PBH-BTN/BTN-Collected-Rules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c3ca942</div>
-                                        <div class="message">[Sparkle] 自动更新 untrusted-ips.txt</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">22 Sept 2025, 11:00:04</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2025, 13:26:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2025, 14:40:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
