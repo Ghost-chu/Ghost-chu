@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 977 repositories
+                            Starred 979 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -316,20 +316,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 19.5mb of code in 16189 edited files across 5221 commits</small>
+                <small>estimation from 19.5mb of code in 16203 edited files across 5224 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.23214971649531" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="178.23214971649531" y="0" width="46.628982209808285" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="224.8611319263036" y="0" width="11.996741517747576" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="236.8578734440512" y="0" width="6.617682634255532" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="243.47555607830674" y="0" width="5.5384642624750455" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="249.01402034078177" y="0" width="1.5045256268569875" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="250.51854596763874" y="0" width="0.8198129436139094" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="251.33835891125267" y="0" width="208.66164108874733" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.33197365508974" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="178.33197365508974" y="0" width="46.61246262231047" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="224.94443627740023" y="0" width="11.992491345176804" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="236.93692762257703" y="0" width="6.615338139863235" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="243.55226576244024" y="0" width="5.536502110597574" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="249.08876787303782" y="0" width="1.5039926076582464" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="250.59276048069603" y="0" width="0.8195225025403097" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="251.41228298323637" y="0" width="208.5877170167636" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -496,7 +496,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2026, 19:20:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jun 2026, 01:07:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
